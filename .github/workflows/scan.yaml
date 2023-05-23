@@ -1,0 +1,27 @@
+name: Call a reusable workflow 
+
+on:
+  workflow_dispatch:
+    inputs:
+      client_repository:
+        description: 'repository'
+      branch:
+        description: 'branch'
+      user_id:
+        descrption: 'user_id'
+    secrets:
+      Token_WF:
+
+ 
+jobs:
+
+  Deploy:
+    
+    uses: American-Chip/workflow-remote/.github/workflows/graviton-scan-reusable.yaml@develop
+    with:
+      CLIENT_REPOSITORY: ${{ inputs.client_repository }}
+      BRANCH : ${{ inputs.branch }}
+      USER_id : ${{ inputs.user_id }}
+
+    secrets:
+      ac_github_token: ${{secrets.Token_WF}}
