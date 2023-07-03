@@ -16,6 +16,10 @@ on:
 jobs:
 
   Deploy:
+
+    permissions:
+      id-token: write
+      contents: read
     
     uses: American-Chip/workflow-remote/.github/workflows/graviton-scan-reusable.yaml@develop
     with:
