@@ -1,0 +1,12 @@
+version: "3.9"
+services:
+  boaviztapi:
+    image: ghcr.io/boavizta/boaviztapi:latest
+    ports:
+      - "5000:5000"
+  boaviztapi-doc:
+    image: ghcr.io/boavizta/boaviztapi-doc:latest
+    environment:
+      - API_URL=http://boaviztapi_url.com
+    ports:
+      - "8080:8080"

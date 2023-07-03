@@ -1,0 +1,409 @@
+cloud_service_id,processor_manufacturer,vcpu_memgb_ratio,gCO2eq24hs,cloud_provider_id,category,vcpu,architecture,daily_price,memory_gb,network,clock_speed_ghz,graviton_suggestion,instance_id,memgb_vcpu_ratio,gpu
+aws-ec2,graviton,0.5,659.3,aws,compute,8,arm64,4.9,16,Up to 10 Gigabit,2.3,,a1.2xlarge,2,0
+aws-ec2,graviton,0.5,1319.9,aws,compute,16,arm64,9.79,32,Up to 10 Gigabit,2.3,,a1.4xlarge,2,0
+aws-ec2,graviton,0.5,165.4,aws,compute,2,arm64,1.22,4,Up to 10 Gigabit,2.3,,a1.large,2,0
+aws-ec2,graviton,0.5,81.5,aws,compute,1,arm64,0.61,2,Up to 10 Gigabit,2.3,,a1.medium,2,0
+aws-ec2,graviton,0.5,,aws,compute,16,arm64,9.79,32,Up to 10 Gigabit,2.3,,a1.metal,2,0
+aws-ec2,graviton,0.5,329.7,aws,compute,4,arm64,2.45,8,Up to 10 Gigabit,2.3,,a1.xlarge,2,0
+aws-ec2,intel,1.1764705882352942,140.2,aws,compute,2,x86_64,3.12,1.7,Moderate,,no_equivalent,c1.medium,0.85,0
+aws-ec2,intel,1.1428571428571428,556,aws,compute,8,x86_64,12.48,7,High,,no_equivalent,c1.xlarge,0.875,0
+aws-ec2,intel,0.5333333333333333,761.9,aws,compute,8,x86_64,10.08,15,High,2.8,no_equivalent,c3.2xlarge,1.875,0
+aws-ec2,intel,0.5333333333333333,1523.9,aws,compute,16,x86_64,20.16,30,High,2.8,no_equivalent,c3.4xlarge,1.875,0
+aws-ec2,intel,0.5333333333333333,3044.2,aws,compute,32,x86_64,40.32,60,10 Gigabit,2.8,no_equivalent,c3.8xlarge,1.875,0
+aws-ec2,intel,0.5333333333333333,190.5,aws,compute,2,x86_64,2.52,3.75,Moderate,2.8,no_equivalent,c3.large,1.875,0
+aws-ec2,intel,0.5333333333333333,379.8,aws,compute,4,x86_64,5.04,7.5,Moderate,2.8,no_equivalent,c3.xlarge,1.875,0
+aws-ec2,intel,0.5333333333333333,819.4,aws,compute,8,x86_64,9.55,15,High,2.9,c6g.2xlarge,c4.2xlarge,1.875,0
+aws-ec2,intel,0.5333333333333333,1639.9,aws,compute,16,x86_64,19.1,30,High,2.9,c6g.4xlarge,c4.4xlarge,1.875,0
+aws-ec2,intel,0.6,3654.8,aws,compute,36,x86_64,38.18,60,10 Gigabit,2.9,c6g.8xlarge,c4.8xlarge,1.6666666666666667,0
+aws-ec2,intel,0.5333333333333333,206,aws,compute,2,x86_64,2.4,3.75,Moderate,2.9,c6g.large,c4.large,1.875,0
+aws-ec2,intel,0.5333333333333333,410.9,aws,compute,4,x86_64,4.78,7.5,High,2.9,c6g.xlarge,c4.xlarge,1.875,0
+aws-ec2,intel,0.5,4552.2,aws,compute,48,x86_64,48.96,96,12 Gigabit,3,c6g.12xlarge,c5.12xlarge,2,0
+aws-ec2,intel,0.5,6657,aws,compute,72,x86_64,73.44,144,25 Gigabit,3,c6g.18xlarge,c5.18xlarge,2,0
+aws-ec2,intel,0.5,9108.1,aws,compute,96,x86_64,97.92,192,25 Gigabit,3,c6g.24xlarge,c5.24xlarge,2,0
+aws-ec2,intel,0.5,739,aws,compute,8,x86_64,8.16,16,Up to 10 Gigabit,3,c6g.2xlarge,c5.2xlarge,2,0
+aws-ec2,intel,0.5,1478,aws,compute,16,x86_64,16.32,32,Up to 10 Gigabit,3,c6g.4xlarge,c5.4xlarge,2,0
+aws-ec2,intel,0.5,3327.3,aws,compute,36,x86_64,36.72,72,10 Gigabit,3,c6g.9xlarge,c5.9xlarge,2,0
+aws-ec2,intel,0.5,185.7,aws,compute,2,x86_64,2.04,4,Up to 10 Gigabit,3,c6g.large,c5.large,2,0
+aws-ec2,intel,0.5,,aws,compute,96,x86_64,97.92,192,25 Gigabit,3,no_equivalent,c5.metal,2,0
+aws-ec2,intel,0.5,371.3,aws,compute,4,x86_64,4.08,8,Up to 10 Gigabit,3,c6g.xlarge,c5.xlarge,2,0
+aws-ec2,amd,0.5,2487.9,aws,compute,48,x86_64,44.35,96,12 Gigabit,2.8,c6g.12xlarge,c5a.12xlarge,2,0
+aws-ec2,amd,0.5,3318,aws,compute,64,x86_64,59.14,128,20 Gigabit,2.8,c6g.16xlarge,c5a.16xlarge,2,0
+aws-ec2,amd,0.5,4975.8,aws,compute,96,x86_64,88.7,192,20 Gigabit,2.8,c6g.24xlarge,c5a.24xlarge,2,0
+aws-ec2,amd,0.5,414.4,aws,compute,8,x86_64,7.39,16,Up to 10 Gigabit,2.8,c6g.2xlarge,c5a.2xlarge,2,0
+aws-ec2,amd,0.5,828.9,aws,compute,16,x86_64,14.78,32,Up to 10 Gigabit,2.8,c6g.4xlarge,c5a.4xlarge,2,0
+aws-ec2,amd,0.5,1659,aws,compute,32,x86_64,29.57,64,10 Gigabit,2.8,c6g.8xlarge,c5a.8xlarge,2,0
+aws-ec2,amd,0.5,103,aws,compute,2,x86_64,1.85,4,Up to 10 Gigabit,2.8,c6g.large,c5a.large,2,0
+aws-ec2,amd,0.5,207.2,aws,compute,4,x86_64,3.7,8,Up to 10 Gigabit,2.8,c6g.xlarge,c5a.xlarge,2,0
+aws-ec2,amd,0.5,2557.5,aws,compute,48,x86_64,49.54,96,12 Gigabit,2.8,c6gd.12xlarge,c5ad.12xlarge,2,0
+aws-ec2,amd,0.5,3411.6,aws,compute,64,x86_64,66.05,128,20 Gigabit,2.8,c6gd.16xlarge,c5ad.16xlarge,2,0
+aws-ec2,amd,0.5,5115,aws,compute,96,x86_64,99.07,192,20 Gigabit,2.8,c6gd.24xlarge,c5ad.24xlarge,2,0
+aws-ec2,amd,0.5,426.4,aws,compute,8,x86_64,8.26,16,Up to 10 Gigabit,2.8,c6gd.2xlarge,c5ad.2xlarge,2,0
+aws-ec2,amd,0.5,852.9,aws,compute,16,x86_64,16.51,32,Up to 10 Gigabit,2.8,c6gd.4xlarge,c5ad.4xlarge,2,0
+aws-ec2,amd,0.5,1704.6,aws,compute,32,x86_64,33.02,64,10 Gigabit,2.8,c6gd.8xlarge,c5ad.8xlarge,2,0
+aws-ec2,amd,0.5,107.8,aws,compute,2,x86_64,2.06,4,Up to 10 Gigabit,2.8,c6gd.large,c5ad.large,2,0
+aws-ec2,amd,0.5,212,aws,compute,4,x86_64,4.13,8,Up to 10 Gigabit,2.8,c6gd.xlarge,c5ad.xlarge,2,0
+aws-ec2,intel,0.5,4691.4,aws,compute,48,x86_64,55.3,96,12 Gigabit,3,c6gd.12xlarge,c5d.12xlarge,2,0
+aws-ec2,intel,0.5,6796.2,aws,compute,72,x86_64,82.94,144,25 Gigabit,3,c6gd.18xlarge,c5d.18xlarge,2,0
+aws-ec2,intel,0.5,9386.5,aws,compute,96,x86_64,110.59,192,25 Gigabit,3,c6gd.24xlarge,c5d.24xlarge,2,0
+aws-ec2,intel,0.5,755.8,aws,compute,8,x86_64,9.22,16,Up to 10 Gigabit,3,c6gd.2xlarge,c5d.2xlarge,2,0
+aws-ec2,intel,0.5,1509.2,aws,compute,16,x86_64,18.43,32,Up to 10 Gigabit,3,c6gd.4xlarge,c5d.4xlarge,2,0
+aws-ec2,intel,0.5,3396.9,aws,compute,36,x86_64,41.47,72,10 Gigabit,3,c6gd.9xlarge,c5d.9xlarge,2,0
+aws-ec2,intel,0.5,188.1,aws,compute,2,x86_64,2.3,4,Up to 10 Gigabit,3,c6gd.large,c5d.large,2,0
+aws-ec2,intel,0.5,,aws,compute,96,x86_64,110.59,192,25 Gigabit,3,no_equivalent,c5d.metal,2,0
+aws-ec2,intel,0.5,378.5,aws,compute,4,x86_64,4.61,8,Up to 10 Gigabit,3,c6gd.xlarge,c5d.xlarge,2,0
+aws-ec2,intel,0.375,7012.7,aws,compute,72,x86_64,93.31,192,100 Gigabit,3,c6gn.18xlarge,c5n.18xlarge,2.6666666666666665,0
+aws-ec2,intel,0.38095238095238093,776.1,aws,compute,8,x86_64,10.37,21,Up to 25 Gigabit,3,c6gn.2xlarge,c5n.2xlarge,2.625,0
+aws-ec2,intel,0.38095238095238093,1552.2,aws,compute,16,x86_64,20.74,42,Up to 25 Gigabit,3,c6gn.4xlarge,c5n.4xlarge,2.625,0
+aws-ec2,intel,0.375,3504.5,aws,compute,36,x86_64,46.66,96,50 Gigabit,3,c6gn.9xlarge,c5n.9xlarge,2.6666666666666665,0
+aws-ec2,intel,0.38095238095238093,194,aws,compute,2,x86_64,2.59,5.25,Up to 25 Gigabit,3,c6gn.large,c5n.large,2.625,0
+aws-ec2,intel,0.375,,aws,compute,72,x86_64,93.31,192,100 Gigabit,3,no_equivalent,c5n.metal,2.6666666666666665,0
+aws-ec2,intel,0.38095238095238093,389.3,aws,compute,4,x86_64,5.18,10.5,Up to 25 Gigabit,3,c6gn.xlarge,c5n.xlarge,2.625,0
+aws-ec2,graviton,0.5,2344.6,aws,compute,48,arm64,39.17,96,20 Gigabit,2.5,,c6g.12xlarge,2,0
+aws-ec2,graviton,0.5,3124.5,aws,compute,64,arm64,52.22,128,25 Gigabit,2.5,,c6g.16xlarge,2,0
+aws-ec2,graviton,0.5,391.8,aws,compute,8,arm64,6.53,16,Up to 10 Gigabit,2.5,,c6g.2xlarge,2,0
+aws-ec2,graviton,0.5,782.3,aws,compute,16,arm64,13.06,32,Up to 10 Gigabit,2.5,,c6g.4xlarge,2,0
+aws-ec2,graviton,0.5,1562.3,aws,compute,32,arm64,26.11,64,12 Gigabit,2.5,,c6g.8xlarge,2,0
+aws-ec2,graviton,0.5,97,aws,compute,2,arm64,1.63,4,Up to 10 Gigabit,2.5,,c6g.large,2,0
+aws-ec2,graviton,0.5,47.9,aws,compute,1,arm64,0.82,2,Up to 10 Gigabit,2.5,,c6g.medium,2,0
+aws-ec2,graviton,0.5,,aws,compute,64,arm64,52.22,128,25 Gigabit,2.5,,c6g.metal,2,0
+aws-ec2,graviton,0.5,195.3,aws,compute,4,arm64,3.26,8,Up to 10 Gigabit,2.5,,c6g.xlarge,2,0
+aws-ec2,graviton,0.5,2447.8,aws,compute,48,arm64,44.24,96,20 Gigabit,2.5,,c6gd.12xlarge,2,0
+aws-ec2,graviton,0.5,3263.7,aws,compute,64,arm64,58.98,128,25 Gigabit,2.5,,c6gd.16xlarge,2,0
+aws-ec2,graviton,0.5,408.6,aws,compute,8,arm64,7.37,16,Up to 10 Gigabit,2.5,,c6gd.2xlarge,2,0
+aws-ec2,graviton,0.5,815.9,aws,compute,16,arm64,14.75,32,Up to 10 Gigabit,2.5,,c6gd.4xlarge,2,0
+aws-ec2,graviton,0.5,1631.9,aws,compute,32,arm64,29.49,64,12 Gigabit,2.5,,c6gd.8xlarge,2,0
+aws-ec2,graviton,0.5,101.8,aws,compute,2,arm64,1.84,4,Up to 10 Gigabit,2.5,,c6gd.large,2,0
+aws-ec2,graviton,0.5,50.3,aws,compute,1,arm64,0.92,2,Up to 10 Gigabit,2.5,,c6gd.medium,2,0
+aws-ec2,graviton,0.5,,aws,compute,64,arm64,58.98,128,25 Gigabit,2.5,,c6gd.metal,2,0
+aws-ec2,graviton,0.5,204.9,aws,compute,4,arm64,3.69,8,Up to 10 Gigabit,2.5,,c6gd.xlarge,2,0
+aws-ec2,graviton,0.5,2344.6,aws,compute,48,arm64,49.77,96,75 Gigabit,2.5,,c6gn.12xlarge,2,0
+aws-ec2,graviton,0.5,3124.5,aws,compute,64,arm64,66.36,128,100 Gigabit,2.5,,c6gn.16xlarge,2,0
+aws-ec2,graviton,0.5,391.8,aws,compute,8,arm64,8.29,16,Up to 25 Gigabit,2.5,,c6gn.2xlarge,2,0
+aws-ec2,graviton,0.5,782.3,aws,compute,16,arm64,16.59,32,Up to 25 Gigabit,2.5,,c6gn.4xlarge,2,0
+aws-ec2,graviton,0.5,1562.3,aws,compute,32,arm64,33.18,64,50 Gigabit,2.5,,c6gn.8xlarge,2,0
+aws-ec2,graviton,0.5,97,aws,compute,2,arm64,2.07,4,Up to 25 Gigabit,2.5,,c6gn.large,2,0
+aws-ec2,graviton,0.5,47.9,aws,compute,1,arm64,1.04,2,Up to 25 Gigabit,2.5,,c6gn.medium,2,0
+aws-ec2,graviton,0.5,195.3,aws,compute,4,arm64,4.15,8,Up to 25 Gigabit,2.5,,c6gn.xlarge,2,0
+aws-ec2,intel,0.5289256198347108,3875.9,aws,compute,32,x86_64,48,60.5,10 Gigabit,2.6,no_equivalent,cc2.8xlarge,1.890625,0
+aws-ec2,intel,0.13114754098360656,4793.2,aws,compute,32,x86_64,84,244,10 Gigabit,,no_equivalent,cr1.8xlarge,7.625,0
+aws-ec2,intel,0.13114754098360656,1029.2,aws,compute,8,x86_64,33.12,61,High,2.4,no_equivalent,d2.2xlarge,7.625,0
+aws-ec2,intel,0.13114754098360656,2059.6,aws,compute,16,x86_64,66.24,122,High,2.4,no_equivalent,d2.4xlarge,7.625,0
+aws-ec2,intel,0.14754098360655737,4489.5,aws,compute,36,x86_64,132.48,244,10 Gigabit,2.4,no_equivalent,d2.8xlarge,6.777777777777778,0
+aws-ec2,intel,0.13114754098360656,515.2,aws,compute,4,x86_64,16.56,30.5,Moderate,2.4,no_equivalent,d2.xlarge,7.625,0
+aws-ec2,intel,0.125,894.8,aws,compute,8,x86_64,23.98,64,Up to 15 Gigabit,3.1,no_equivalent,d3.2xlarge,8,0
+aws-ec2,intel,0.125,1790.7,aws,compute,16,x86_64,47.95,128,Up to 15 Gigabit,3.1,no_equivalent,d3.4xlarge,8,0
+aws-ec2,intel,0.125,3581.5,aws,compute,32,x86_64,95.89,256,25 Gigabit,3.1,no_equivalent,d3.8xlarge,8,0
+aws-ec2,intel,0.125,448,aws,compute,4,x86_64,11.98,32,Up to 15 Gigabit,3.1,no_equivalent,d3.xlarge,8,0
+aws-ec2,intel,0.25,4282.5,aws,compute,48,x86_64,151.41,192,75 Gigabit,3.1,no_equivalent,d3en.12xlarge,4,0
+aws-ec2,intel,0.25,712.8,aws,compute,8,x86_64,25.22,32,Up to 25 Gigabit,3.1,no_equivalent,d3en.2xlarge,4,0
+aws-ec2,intel,0.25,1427.9,aws,compute,16,x86_64,50.47,64,25 Gigabit,3.1,no_equivalent,d3en.4xlarge,4,0
+aws-ec2,intel,0.25,2141.9,aws,compute,24,x86_64,75.7,96,40 Gigabit,3.1,no_equivalent,d3en.6xlarge,4,0
+aws-ec2,intel,0.25,2854.6,aws,compute,32,x86_64,100.94,128,50 Gigabit,3.1,no_equivalent,d3en.8xlarge,4,0
+aws-ec2,intel,0.25,358.2,aws,compute,4,x86_64,12.62,16,Up to 25 Gigabit,3.1,no_equivalent,d3en.xlarge,4,0
+,,,4177.5,aws,,,,,,,,,dc2.8xlarge,,
+,,,258.8,aws,,,,,,,,,dc2.large,,
+,,,4071.9,aws,,,,,,,,,ds2.8xlarge,,
+,,,472,aws,,,,,,,,,ds2.xlarge,,
+aws-ec2,intel,0.06557377049180328,9224.8,aws,compute,64,x86_64,316.8,976,25 Gigabit,2.3,no_equivalent,f1.16xlarge,15.25,0
+aws-ec2,intel,0.06557377049180328,1153.5,aws,compute,8,x86_64,39.6,122,Up to 10 Gigabit,2.3,no_equivalent,f1.2xlarge,15.25,0
+aws-ec2,intel,0.06557377049180328,2305.9,aws,compute,16,x86_64,79.2,244,Up to 10 Gigabit,2.3,no_equivalent,f1.4xlarge,15.25,0
+aws-ec2,intel,0.5333333333333333,3064.8,aws,compute,8,x86_64,15.6,15,Moderate,2.6,no_equivalent,g2.2xlarge,1.875,1
+aws-ec2,intel,0.5333333333333333,12255.7,aws,compute,32,x86_64,62.4,60,High,2.6,no_equivalent,g2.8xlarge,1.875,4
+aws-ec2,intel,0.13114754098360656,17403.4,aws,compute,64,x86_64,109.44,488,25 Gigabit,2.3,no_equivalent,g3.16xlarge,7.625,4
+aws-ec2,intel,0.13114754098360656,4349.7,aws,compute,16,x86_64,27.36,122,Up to 10 Gigabit,2.3,no_equivalent,g3.4xlarge,7.625,1
+aws-ec2,intel,0.13114754098360656,8701.7,aws,compute,32,x86_64,54.72,244,10 Gigabit,2.3,no_equivalent,g3.8xlarge,7.625,2
+aws-ec2,intel,0.13114754098360656,3114.6,aws,compute,4,x86_64,18,30.5,Up to 10 Gigabit,2.3,no_equivalent,g3s.xlarge,7.625,1
+aws-ec2,amd,0.25,12531.7,aws,compute,64,x86_64,83.23,256,25 Gigabit,2.8,no_equivalent,g4ad.16xlarge,4,4
+aws-ec2,amd,0.25,3131.7,aws,compute,16,x86_64,20.81,64,Up to 10 Gigabit,2.8,no_equivalent,g4ad.4xlarge,4,1
+aws-ec2,amd,0.25,6265.8,aws,compute,32,x86_64,41.62,128,15 Gigabit,2.8,no_equivalent,g4ad.8xlarge,4,2
+aws-ec2,intel,0.25,6967.4,aws,compute,48,x86_64,93.89,192,50 Gigabit,2.5,no_equivalent,g4dn.12xlarge,4,4
+aws-ec2,intel,0.25,6557.5,aws,compute,64,x86_64,104.45,256,50 Gigabit,2.5,no_equivalent,g4dn.16xlarge,4,1
+aws-ec2,intel,0.25,1372.6,aws,compute,8,x86_64,18.05,32,Up to 25 Gigabit,2.5,no_equivalent,g4dn.2xlarge,4,1
+aws-ec2,intel,0.25,2111.7,aws,compute,16,x86_64,28.9,64,Up to 25 Gigabit,2.5,no_equivalent,g4dn.4xlarge,4,1
+aws-ec2,intel,0.25,3592.4,aws,compute,32,x86_64,52.22,128,50 Gigabit,2.5,no_equivalent,g4dn.8xlarge,4,1
+aws-ec2,intel,0.25,,aws,compute,96,x86_64,187.78,384,100 Gigabit,2.5,no_equivalent,g4dn.metal,4,8
+aws-ec2,intel,0.25,1000,aws,compute,4,x86_64,12.62,16,Up to 25 Gigabit,2.5,no_equivalent,g4dn.xlarge,4,1
+aws-ec2,intel,0.25,5654,aws,compute,64,x86_64,89.86,256,25 Gigabit,2.3,no_equivalent,h1.16xlarge,4,0
+aws-ec2,intel,0.25,708.1,aws,compute,8,x86_64,11.23,32,Up to 10 Gigabit,2.3,no_equivalent,h1.2xlarge,4,0
+aws-ec2,intel,0.25,1412.6,aws,compute,16,x86_64,22.46,64,Up to 10 Gigabit,2.3,no_equivalent,h1.4xlarge,4,0
+aws-ec2,intel,0.25,2828.8,aws,compute,32,x86_64,44.93,128,10 Gigabit,2.3,no_equivalent,h1.8xlarge,4,0
+aws-ec2,intel,0.13675213675213677,2720,aws,compute,16,x86_64,110.4,117,10 Gigabit,2,no_equivalent,hs1.8xlarge,7.3125,0
+aws-ec2,intel,0.13114754098360656,1099.9,aws,compute,8,x86_64,40.92,61,High,2.5,no_equivalent,i2.2xlarge,7.625,0
+aws-ec2,intel,0.13114754098360656,2202.1,aws,compute,16,x86_64,81.84,122,High,2.5,no_equivalent,i2.4xlarge,7.625,0
+aws-ec2,intel,0.13114754098360656,4400.7,aws,compute,32,x86_64,163.68,244,10 Gigabit,2.5,no_equivalent,i2.8xlarge,7.625,0
+aws-ec2,intel,0.13114754098360656,549.9,aws,compute,4,x86_64,20.47,30.5,Moderate,2.5,no_equivalent,i2.xlarge,7.625,0
+aws-ec2,intel,0.13114754098360656,6738.7,aws,compute,64,x86_64,119.81,488,25 Gigabit,2.3,no_equivalent,i3.16xlarge,7.625,0
+aws-ec2,intel,0.13114754098360656,842.2,aws,compute,8,x86_64,14.98,61,Up to 10 Gigabit,2.3,no_equivalent,i3.2xlarge,7.625,0
+aws-ec2,intel,0.13114754098360656,1683.2,aws,compute,16,x86_64,29.95,122,Up to 10 Gigabit,2.3,no_equivalent,i3.4xlarge,7.625,0
+aws-ec2,intel,0.13114754098360656,3370,aws,compute,32,x86_64,59.9,244,10 Gigabit,2.3,no_equivalent,i3.8xlarge,7.625,0
+aws-ec2,intel,0.13114754098360656,210.8,aws,compute,2,x86_64,3.74,15.25,Up to 10 Gigabit,2.3,no_equivalent,i3.large,7.625,0
+aws-ec2,intel,0.125,,aws,compute,64,x86_64,119.81,512,25 Gigabit,2.3,no_equivalent,i3.metal,8,0
+aws-ec2,intel,0.13114754098360656,421.7,aws,compute,4,x86_64,7.49,30.5,Up to 10 Gigabit,2.3,no_equivalent,i3.xlarge,7.625,0
+aws-ec2,intel,0.125,6506.4,aws,compute,48,x86_64,130.18,384,50 Gigabit,3.1,no_equivalent,i3en.12xlarge,8,0
+aws-ec2,intel,0.125,13011.6,aws,compute,96,x86_64,260.35,768,100 Gigabit,3.1,no_equivalent,i3en.24xlarge,8,0
+aws-ec2,intel,0.125,1084,aws,compute,8,x86_64,21.7,64,Up to 25 Gigabit,3.1,no_equivalent,i3en.2xlarge,8,0
+aws-ec2,intel,0.125,1625.4,aws,compute,12,x86_64,32.54,96,Up to 25 Gigabit,3.1,no_equivalent,i3en.3xlarge,8,0
+aws-ec2,intel,0.125,3253.2,aws,compute,24,x86_64,65.09,192,25 Gigabit,3.1,no_equivalent,i3en.6xlarge,8,0
+aws-ec2,intel,0.125,271.9,aws,compute,2,x86_64,5.42,16,Up to 25 Gigabit,3.1,no_equivalent,i3en.large,8,0
+aws-ec2,intel,0.125,,aws,compute,96,x86_64,260.35,768,100 Gigabit,3.1,no_equivalent,i3en.metal,8,0
+aws-ec2,intel,0.125,541.4,aws,compute,4,x86_64,10.85,32,Up to 25 Gigabit,3.1,no_equivalent,i3en.xlarge,8,0
+aws-ec2,intel,0.5,9108.1,aws,compute,96,x86_64,113.3,192,100 Gigabit,,no_equivalent,inf1.24xlarge,2,0
+aws-ec2,intel,0.5,758.1,aws,compute,8,x86_64,8.69,16,Up to 25 Gigabit,,no_equivalent,inf1.2xlarge,2,0
+aws-ec2,intel,0.5,2276.7,aws,compute,24,x86_64,28.32,48,25 Gigabit,,no_equivalent,inf1.6xlarge,2,0
+aws-ec2,intel,0.5,378.5,aws,compute,4,x86_64,5.47,8,Up to 25 Gigabit,,no_equivalent,inf1.xlarge,2,0
+aws-ec2,intel,0.26666666666666666,237.2,aws,compute,2,x86_64,4.2,7.5,Moderate,,no_equivalent,m1.large,3.75,0
+aws-ec2,intel,0.26666666666666666,118.6,aws,compute,1,x86_64,2.09,3.75,Moderate,,no_equivalent,m1.medium,3.75,0
+aws-ec2,intel,0.5882352941176471,109,aws,compute,1,x86_64,1.06,1.7,Low,,no_equivalent,m1.small,1.7,0
+aws-ec2,intel,0.26666666666666666,472.1,aws,compute,4,x86_64,8.4,15,High,,no_equivalent,m1.xlarge,3.75,0
+aws-ec2,intel,0.11695906432748537,620.6,aws,compute,4,x86_64,11.76,34.2,Moderate,,no_equivalent,m2.2xlarge,8.55,0
+aws-ec2,intel,0.11695906432748537,1243.5,aws,compute,8,x86_64,23.52,68.4,High,,no_equivalent,m2.4xlarge,8.55,0
+aws-ec2,intel,0.11695906432748537,310.3,aws,compute,2,x86_64,5.88,17.1,Moderate,,no_equivalent,m2.xlarge,8.55,0
+aws-ec2,intel,0.26666666666666666,1049.5,aws,compute,8,x86_64,12.77,30,High,2.5,no_equivalent,m3.2xlarge,3.75,0
+aws-ec2,intel,0.26666666666666666,262.4,aws,compute,2,x86_64,3.19,7.5,Moderate,2.5,no_equivalent,m3.large,3.75,0
+aws-ec2,intel,0.26666666666666666,131.8,aws,compute,1,x86_64,1.61,3.75,Moderate,2.5,no_equivalent,m3.medium,3.75,0
+aws-ec2,intel,0.26666666666666666,523.6,aws,compute,4,x86_64,6.38,15,High,2.5,no_equivalent,m3.xlarge,3.75,0
+aws-ec2,intel,0.25,3768.8,aws,compute,40,x86_64,48,160,10 Gigabit,2.4,m6g.10xlarge,m4.10xlarge,4,0
+aws-ec2,intel,0.25,4914.8,aws,compute,64,x86_64,76.8,256,25 Gigabit,2.4,m6g.16xlarge,m4.16xlarge,4,0
+aws-ec2,intel,0.25,614.5,aws,compute,8,x86_64,9.6,32,High,2.4,m6g.2xlarge,m4.2xlarge,4,0
+aws-ec2,intel,0.25,1227.8,aws,compute,16,x86_64,19.2,64,High,2.4,m6g.4xlarge,m4.4xlarge,4,0
+aws-ec2,intel,0.25,154.5,aws,compute,2,x86_64,2.4,8,Moderate,2.4,m6g.large,m4.large,4,0
+aws-ec2,intel,0.25,306.6,aws,compute,4,x86_64,4.8,16,High,2.4,m6g.xlarge,m4.xlarge,4,0
+aws-ec2,intel,0.25,4617.1,aws,compute,48,x86_64,55.3,192,10 Gigabit,3.1,m6g.12xlarge,m5.12xlarge,4,0
+aws-ec2,intel,0.25,6157.3,aws,compute,64,x86_64,73.73,256,20 Gigabit,3.1,m6g.16xlarge,m5.16xlarge,4,0
+aws-ec2,intel,0.25,9234.2,aws,compute,96,x86_64,110.59,384,25 Gigabit,3.1,m6g.24xlarge,m5.24xlarge,4,0
+aws-ec2,intel,0.25,770.1,aws,compute,8,x86_64,9.22,32,Up to 10 Gigabit,3.1,m6g.2xlarge,m5.2xlarge,4,0
+aws-ec2,intel,0.25,1540.2,aws,compute,16,x86_64,18.43,64,Up to 10 Gigabit,3.1,m6g.4xlarge,m5.4xlarge,4,0
+aws-ec2,intel,0.25,3076.9,aws,compute,32,x86_64,36.86,128,10 Gigabit,3.1,m6g.8xlarge,m5.8xlarge,4,0
+aws-ec2,intel,0.25,192.8,aws,compute,2,x86_64,2.3,8,Up to 10 Gigabit,3.1,m6g.large,m5.large,4,0
+aws-ec2,intel,0.25,,aws,compute,96,x86_64,110.59,384,25 Gigabit,3.1,no_equivalent,m5.metal,4,0
+aws-ec2,intel,0.25,383.3,aws,compute,4,x86_64,4.61,16,Up to 10 Gigabit,3.1,m6g.xlarge,m5.xlarge,4,0
+aws-ec2,amd,0.25,3759.8,aws,compute,48,x86_64,49.54,192,10 Gigabit,2.5,m6g.12xlarge,m5a.12xlarge,4,0
+aws-ec2,amd,0.25,5012.6,aws,compute,64,x86_64,66.05,256,12 Gigabit,2.5,m6g.16xlarge,m5a.16xlarge,4,0
+aws-ec2,amd,0.25,7518.4,aws,compute,96,x86_64,99.07,384,20 Gigabit,2.5,m6g.24xlarge,m5a.24xlarge,4,0
+aws-ec2,amd,0.25,626.4,aws,compute,8,x86_64,8.26,32,Up to 10 Gigabit,2.5,m6g.2xlarge,m5a.2xlarge,4,0
+aws-ec2,amd,0.25,1254.1,aws,compute,16,x86_64,16.51,64,Up to 10 Gigabit,2.5,m6g.4xlarge,m5a.4xlarge,4,0
+aws-ec2,amd,0.25,2505.7,aws,compute,32,x86_64,33.02,128,Up to 10 Gigabit,2.5,m6g.8xlarge,m5a.8xlarge,4,0
+aws-ec2,amd,0.25,156.9,aws,compute,2,x86_64,2.06,8,Up to 10 Gigabit,2.5,m6g.large,m5a.large,4,0
+aws-ec2,amd,0.25,312.6,aws,compute,4,x86_64,4.13,16,Up to 10 Gigabit,2.5,m6g.xlarge,m5a.xlarge,4,0
+aws-ec2,amd,0.25,3899,aws,compute,48,x86_64,59.33,192,10 Gigabit,2.5,m6gd.12xlarge,m5ad.12xlarge,4,0
+aws-ec2,amd,0.25,5197.4,aws,compute,64,x86_64,79.1,256,12 Gigabit,2.5,m6gd.16xlarge,m5ad.16xlarge,4,0
+aws-ec2,amd,0.25,7796.8,aws,compute,96,x86_64,118.66,384,20 Gigabit,2.5,m6gd.24xlarge,m5ad.24xlarge,4,0
+aws-ec2,amd,0.25,648,aws,compute,8,x86_64,9.89,32,Up to 10 Gigabit,2.5,m6gd.2xlarge,m5ad.2xlarge,4,0
+aws-ec2,amd,0.25,1299.7,aws,compute,16,x86_64,19.78,64,Up to 10 Gigabit,2.5,m6gd.4xlarge,m5ad.4xlarge,4,0
+aws-ec2,amd,0.25,2599.3,aws,compute,32,x86_64,39.55,128,Up to 10 Gigabit,2.5,m6gd.8xlarge,m5ad.8xlarge,4,0
+aws-ec2,amd,0.25,161.7,aws,compute,2,x86_64,2.47,8,Up to 10 Gigabit,2.5,m6gd.large,m5ad.large,4,0
+aws-ec2,amd,0.25,324.6,aws,compute,4,x86_64,4.94,16,Up to 10 Gigabit,2.5,m6gd.xlarge,m5ad.xlarge,4,0
+aws-ec2,intel,0.25,4756.3,aws,compute,48,x86_64,65.09,192,10 Gigabit,3.1,m6gd.12xlarge,m5d.12xlarge,4,0
+aws-ec2,intel,0.25,6342.1,aws,compute,64,x86_64,86.78,256,20 Gigabit,3.1,m6gd.16xlarge,m5d.16xlarge,4,0
+aws-ec2,intel,0.25,9512.6,aws,compute,96,x86_64,130.18,384,25 Gigabit,3.1,m6gd.24xlarge,m5d.24xlarge,4,0
+aws-ec2,intel,0.25,791.7,aws,compute,8,x86_64,10.85,32,Up to 10 Gigabit,3.1,m6gd.2xlarge,m5d.2xlarge,4,0
+aws-ec2,intel,0.25,1585.8,aws,compute,16,x86_64,21.7,64,Up to 10 Gigabit,3.1,m6gd.4xlarge,m5d.4xlarge,4,0
+aws-ec2,intel,0.25,3170.5,aws,compute,32,x86_64,43.39,128,10 Gigabit,3.1,m6gd.8xlarge,m5d.8xlarge,4,0
+aws-ec2,intel,0.25,197.6,aws,compute,2,x86_64,2.71,8,Up to 10 Gigabit,3.1,m6gd.large,m5d.large,4,0
+aws-ec2,intel,0.25,,aws,compute,96,x86_64,130.18,384,25 Gigabit,3.1,no_equivalent,m5d.metal,4,0
+aws-ec2,intel,0.25,395.3,aws,compute,4,x86_64,5.42,16,Up to 10 Gigabit,3.1,m6gd.xlarge,m5d.xlarge,4,0
+aws-ec2,intel,0.25,4097.7,aws,compute,48,x86_64,78.34,192,50 Gigabit,3.1,m6g.12xlarge,m5dn.12xlarge,4,0
+aws-ec2,intel,0.25,5463.3,aws,compute,64,x86_64,104.45,256,75 Gigabit,3.1,m6g.16xlarge,m5dn.16xlarge,4,0
+aws-ec2,intel,0.25,8195.5,aws,compute,96,x86_64,156.67,384,100 Gigabit,3.1,m6g.24xlarge,m5dn.24xlarge,4,0
+aws-ec2,intel,0.25,681.6,aws,compute,8,x86_64,13.06,32,Up to 25 Gigabit,3.1,m6g.2xlarge,m5dn.2xlarge,4,0
+aws-ec2,intel,0.25,1365.5,aws,compute,16,x86_64,26.11,64,Up to 25 Gigabit,3.1,m6g.4xlarge,m5dn.4xlarge,4,0
+aws-ec2,intel,0.25,2732.2,aws,compute,32,x86_64,52.22,128,25 Gigabit,3.1,m6g.8xlarge,m5dn.8xlarge,4,0
+aws-ec2,intel,0.25,170.1,aws,compute,2,x86_64,3.26,8,Up to 25 Gigabit,3.1,m6g.large,m5dn.large,4,0
+aws-ec2,intel,0.25,,aws,compute,96,x86_64,156.67,384,100 Gigabit,3.1,no_equivalent,m5dn.metal,4,0
+aws-ec2,intel,0.25,341.4,aws,compute,4,x86_64,6.53,16,Up to 25 Gigabit,3.1,m6g.xlarge,m5dn.xlarge,4,0
+aws-ec2,intel,0.25,3958.5,aws,compute,48,x86_64,68.54,192,50 Gigabit,3.1,m6g.12xlarge,m5n.12xlarge,4,0
+aws-ec2,intel,0.25,5278.5,aws,compute,64,x86_64,91.39,256,75 Gigabit,3.1,m6g.16xlarge,m5n.16xlarge,4,0
+aws-ec2,intel,0.25,7917.1,aws,compute,96,x86_64,137.09,384,100 Gigabit,3.1,m6g.24xlarge,m5n.24xlarge,4,0
+aws-ec2,intel,0.25,660,aws,compute,8,x86_64,11.42,32,Up to 25 Gigabit,3.1,m6g.2xlarge,m5n.2xlarge,4,0
+aws-ec2,intel,0.25,1319.9,aws,compute,16,x86_64,22.85,64,Up to 25 Gigabit,3.1,m6g.4xlarge,m5n.4xlarge,4,0
+aws-ec2,intel,0.25,2638.6,aws,compute,32,x86_64,45.7,128,25 Gigabit,3.1,m6g.8xlarge,m5n.8xlarge,4,0
+aws-ec2,intel,0.25,165.3,aws,compute,2,x86_64,2.86,8,Up to 25 Gigabit,3.1,m6g.large,m5n.large,4,0
+aws-ec2,intel,0.25,,aws,compute,96,x86_64,137.09,384,100 Gigabit,3.1,no_equivalent,m5n.metal,4,0
+aws-ec2,intel,0.25,329.4,aws,compute,4,x86_64,5.71,16,Up to 25 Gigabit,3.1,m6g.xlarge,m5n.xlarge,4,0
+aws-ec2,intel,0.25,8159.8,aws,compute,48,x86_64,95.14,192,100 Gigabit,4.5,m6g.12xlarge,m5zn.12xlarge,4,0
+aws-ec2,intel,0.25,1360.6,aws,compute,8,x86_64,15.86,32,Up to 25 Gigabit,4.5,m6g.2xlarge,m5zn.2xlarge,4,0
+aws-ec2,intel,0.25,2039.6,aws,compute,12,x86_64,23.78,48,Up to 25 Gigabit,4.5,m6g.3xlarge,m5zn.3xlarge,4,0
+aws-ec2,intel,0.25,4079.3,aws,compute,24,x86_64,47.57,96,50 Gigabit,4.5,m6g.6xlarge,m5zn.6xlarge,4,0
+aws-ec2,intel,0.25,338.9,aws,compute,2,x86_64,3.96,8,Up to 25 Gigabit,4.5,m6g.large,m5zn.large,4,0
+aws-ec2,intel,0.25,,aws,compute,48,x86_64,95.14,192,100 Gigabit,4.5,no_equivalent,m5zn.metal,4,0
+aws-ec2,intel,0.25,679.1,aws,compute,4,x86_64,7.93,16,Up to 25 Gigabit,4.5,m6g.xlarge,m5zn.xlarge,4,0
+aws-ec2,graviton,0.25,2895.6,aws,compute,48,arm64,44.35,192,20 Gigabit,,,m6g.12xlarge,4,0
+aws-ec2,graviton,0.25,3862.4,aws,compute,64,arm64,59.14,256,25 Gigabit,,,m6g.16xlarge,4,0
+aws-ec2,graviton,0.25,482.8,aws,compute,8,arm64,7.39,32,Up to 10 Gigabit,,,m6g.2xlarge,4,0
+aws-ec2,graviton,0.25,964.4,aws,compute,16,arm64,14.78,64,Up to 10 Gigabit,,,m6g.4xlarge,4,0
+aws-ec2,graviton,0.25,1931.2,aws,compute,32,arm64,29.57,128,12 Gigabit,,,m6g.8xlarge,4,0
+aws-ec2,graviton,0.25,121,aws,compute,2,arm64,1.85,8,Up to 10 Gigabit,,,m6g.large,4,0
+aws-ec2,graviton,0.25,59.9,aws,compute,1,arm64,0.92,4,Up to 10 Gigabit,,,m6g.medium,4,0
+aws-ec2,graviton,0.25,,aws,compute,64,arm64,59.14,256,25 Gigabit,,,m6g.metal,4,0
+aws-ec2,graviton,0.25,240.8,aws,compute,4,arm64,3.7,16,Up to 10 Gigabit,,,m6g.xlarge,4,0
+aws-ec2,graviton,0.25,3001.2,aws,compute,48,arm64,52.07,192,20 Gigabit,2.5,,m6gd.12xlarge,4,0
+aws-ec2,graviton,0.25,4001.6,aws,compute,64,arm64,69.43,256,25 Gigabit,2.5,,m6gd.16xlarge,4,0
+aws-ec2,graviton,0.25,499.6,aws,compute,8,arm64,8.68,32,Up to 10 Gigabit,2.5,,m6gd.2xlarge,4,0
+aws-ec2,graviton,0.25,1000.4,aws,compute,16,arm64,17.36,64,Up to 10 Gigabit,2.5,,m6gd.4xlarge,4,0
+aws-ec2,graviton,0.25,2000.8,aws,compute,32,arm64,34.71,128,12 Gigabit,2.5,,m6gd.8xlarge,4,0
+aws-ec2,graviton,0.25,125.8,aws,compute,2,arm64,2.17,8,Up to 10 Gigabit,2.5,,m6gd.large,4,0
+aws-ec2,graviton,0.25,62.3,aws,compute,1,arm64,1.08,4,Up to 10 Gigabit,2.5,,m6gd.medium,4,0
+aws-ec2,graviton,0.25,,aws,compute,64,arm64,69.43,256,25 Gigabit,2.5,,m6gd.metal,4,0
+aws-ec2,graviton,0.25,250.4,aws,compute,4,arm64,4.34,16,Up to 10 Gigabit,2.5,,m6gd.xlarge,4,0
+,,,3951.2,aws,,,,55.3,,,,,m6i.12xlarge,,
+,,,5268.6,aws,,,,73.73,,,,,m6i.16xlarge,,
+,,,7901.1,aws,,,,110.59,,,,,m6i.24xlarge,,
+,,,657.5,aws,,,,9.22,,,,,m6i.2xlarge,,
+,,,10534.8,aws,,,,147.46,,,,,m6i.32xlarge,,
+,,,1317.5,aws,,,,18.43,,,,,m6i.4xlarge,,
+,,,2632.5,aws,,,,36.86,,,,,m6i.8xlarge,,
+,,,164.1,aws,,,,2.3,,,,,m6i.large,,
+,,,329.4,aws,,,,4.61,,,,,m6i.xlarge,,
+aws-ec2,intel,0.08743169398907104,52319.4,aws,compute,64,x86_64,345.6,732,25 Gigabit,2.3,no_equivalent,p2.16xlarge,11.4375,16
+aws-ec2,intel,0.06557377049180328,26744,aws,compute,32,x86_64,172.8,488,10 Gigabit,2.3,no_equivalent,p2.8xlarge,15.25,8
+aws-ec2,intel,0.06557377049180328,3342.3,aws,compute,4,x86_64,21.6,61,High,2.3,no_equivalent,p2.xlarge,15.25,1
+aws-ec2,intel,0.13114754098360656,28945.3,aws,compute,64,x86_64,587.52,488,25 Gigabit,2.3,no_equivalent,p3.16xlarge,7.625,8
+aws-ec2,intel,0.13114754098360656,3617.9,aws,compute,8,x86_64,73.44,61,Up to 10 Gigabit,2.3,no_equivalent,p3.2xlarge,7.625,1
+aws-ec2,intel,0.13114754098360656,14473.9,aws,compute,32,x86_64,293.76,244,10 Gigabit,2.3,no_equivalent,p3.8xlarge,7.625,4
+aws-ec2,intel,0.125,35044.1,aws,compute,96,x86_64,749.09,768,100 Gigabit,2.5,no_equivalent,p3dn.24xlarge,8,8
+aws-ec2,intel,0.08333333333333333,48529.5,aws,compute,96,x86_64,786.54,1152,4x 100 Gigabit,3,no_equivalent,p4d.24xlarge,12,8
+aws-ec2,intel,0.13114754098360656,1018.3,aws,compute,8,x86_64,15.96,61,High,2.5,r6g.2xlarge,r3.2xlarge,7.625,0
+aws-ec2,intel,0.13114754098360656,2034.1,aws,compute,16,x86_64,31.92,122,High,2.5,r6g.4xlarge,r3.4xlarge,7.625,0
+aws-ec2,intel,0.13114754098360656,4067.1,aws,compute,32,x86_64,63.84,244,10 Gigabit,2.5,r6g.8xlarge,r3.8xlarge,7.625,0
+aws-ec2,intel,0.13114754098360656,252.8,aws,compute,2,x86_64,3.98,15.25,Moderate,2.5,r6g.large,r3.large,7.625,0
+aws-ec2,intel,0.13114754098360656,509.1,aws,compute,4,x86_64,7.99,30.5,Moderate,2.5,r6g.xlarge,r3.xlarge,7.625,0
+aws-ec2,intel,0.13114754098360656,6222.7,aws,compute,64,x86_64,102.14,488,25 Gigabit,2.3,r6g.16xlarge,r4.16xlarge,7.625,0
+aws-ec2,intel,0.13114754098360656,777.4,aws,compute,8,x86_64,12.77,61,Up to 10 Gigabit,2.3,r6g.2xlarge,r4.2xlarge,7.625,0
+aws-ec2,intel,0.13114754098360656,1556,aws,compute,16,x86_64,25.54,122,Up to 10 Gigabit,2.3,r6g.4xlarge,r4.4xlarge,7.625,0
+aws-ec2,intel,0.13114754098360656,3113.2,aws,compute,32,x86_64,51.07,244,10 Gigabit,2.3,r6g.8xlarge,r4.8xlarge,7.625,0
+aws-ec2,intel,0.13114754098360656,194,aws,compute,2,x86_64,3.19,15.25,Up to 10 Gigabit,2.3,r6g.large,r4.large,7.625,0
+aws-ec2,intel,0.13114754098360656,388.1,aws,compute,4,x86_64,6.38,30.5,Up to 10 Gigabit,2.3,r6g.xlarge,r4.xlarge,7.625,0
+aws-ec2,intel,0.125,6228,aws,compute,48,x86_64,72.58,384,10 Gigabit,3.1,r6g.12xlarge,r5.12xlarge,8,0
+aws-ec2,intel,0.125,8302.4,aws,compute,64,x86_64,96.77,512,20 Gigabit,3.1,r6g.16xlarge,r5.16xlarge,8,0
+aws-ec2,intel,0.125,12454.8,aws,compute,96,x86_64,145.15,768,25 Gigabit,3.1,r6g.24xlarge,r5.24xlarge,8,0
+aws-ec2,intel,0.125,1038.4,aws,compute,8,x86_64,12.1,64,Up to 10 Gigabit,3.1,r6g.2xlarge,r5.2xlarge,8,0
+aws-ec2,intel,0.125,2075.6,aws,compute,16,x86_64,24.19,128,Up to 10 Gigabit,3.1,r6g.4xlarge,r5.4xlarge,8,0
+aws-ec2,intel,0.125,4152.4,aws,compute,32,x86_64,48.38,256,10 Gigabit,3.1,r6g.8xlarge,r5.8xlarge,8,0
+aws-ec2,intel,0.125,259.9,aws,compute,2,x86_64,3.02,16,Up to 10 Gigabit,3.1,r6g.large,r5.large,8,0
+aws-ec2,intel,0.125,,aws,compute,96,x86_64,145.15,768,25 Gigabit,3.1,no_equivalent,r5.metal,8,0
+aws-ec2,intel,0.125,519.8,aws,compute,4,x86_64,6.05,32,Up to 10 Gigabit,3.1,r6g.xlarge,r5.xlarge,8,0
+aws-ec2,amd,0.125,4864.2,aws,compute,48,x86_64,65.09,384,10 Gigabit,2.5,r6g.12xlarge,r5a.12xlarge,8,0
+aws-ec2,amd,0.125,6483.6,aws,compute,64,x86_64,86.78,512,12 Gigabit,2.5,r6g.16xlarge,r5a.16xlarge,8,0
+aws-ec2,amd,0.125,9727.1,aws,compute,96,x86_64,130.18,768,20 Gigabit,2.5,r6g.24xlarge,r5a.24xlarge,8,0
+aws-ec2,amd,0.125,810.9,aws,compute,8,x86_64,10.85,64,Up to 10 Gigabit,2.5,r6g.2xlarge,r5a.2xlarge,8,0
+aws-ec2,amd,0.125,1620.6,aws,compute,16,x86_64,21.7,128,Up to 10 Gigabit,2.5,r6g.4xlarge,r5a.4xlarge,8,0
+aws-ec2,amd,0.125,3243.6,aws,compute,32,x86_64,43.39,256,Up to 10 Gigabit,2.5,r6g.8xlarge,r5a.8xlarge,8,0
+aws-ec2,amd,0.125,202.4,aws,compute,2,x86_64,2.71,16,Up to 10 Gigabit,2.5,r6g.large,r5a.large,8,0
+aws-ec2,amd,0.125,406,aws,compute,4,x86_64,5.42,32,Up to 10 Gigabit,2.5,r6g.xlarge,r5a.xlarge,8,0
+aws-ec2,amd,0.125,5003.4,aws,compute,48,x86_64,75.46,384,10 Gigabit,2.5,r6gd.12xlarge,r5ad.12xlarge,8,0
+aws-ec2,amd,0.125,6670.8,aws,compute,64,x86_64,100.61,512,12 Gigabit,2.5,r6gd.16xlarge,r5ad.16xlarge,8,0
+aws-ec2,amd,0.125,10005.5,aws,compute,96,x86_64,150.91,768,20 Gigabit,2.5,r6gd.24xlarge,r5ad.24xlarge,8,0
+aws-ec2,amd,0.125,832.5,aws,compute,8,x86_64,12.58,64,Up to 10 Gigabit,2.5,r6gd.2xlarge,r5ad.2xlarge,8,0
+aws-ec2,amd,0.125,1668.6,aws,compute,16,x86_64,25.15,128,Up to 10 Gigabit,2.5,r6gd.4xlarge,r5ad.4xlarge,8,0
+aws-ec2,amd,0.125,3334.8,aws,compute,32,x86_64,50.3,256,Up to 10 Gigabit,2.5,r6gd.8xlarge,r5ad.8xlarge,8,0
+aws-ec2,amd,0.125,207.2,aws,compute,2,x86_64,3.14,16,Up to 10 Gigabit,2.5,r6gd.large,r5ad.large,8,0
+aws-ec2,amd,0.125,418,aws,compute,4,x86_64,6.29,32,Up to 10 Gigabit,2.5,r6gd.xlarge,r5ad.xlarge,8,0
+aws-ec2,intel,0.125,5203,aws,compute,48,x86_64,85.82,384,10 Gigabit,3.1,r6g.12xlarge,r5b.12xlarge,8,0
+aws-ec2,intel,0.125,6936.2,aws,compute,64,x86_64,114.43,512,20 Gigabit,3.1,r6g.16xlarge,r5b.16xlarge,8,0
+aws-ec2,intel,0.125,10404.8,aws,compute,96,x86_64,171.65,768,25 Gigabit,3.1,r6g.24xlarge,r5b.24xlarge,8,0
+aws-ec2,intel,0.125,868.4,aws,compute,8,x86_64,14.3,64,Up to 10 Gigabit,3.1,r6g.2xlarge,r5b.2xlarge,8,0
+aws-ec2,intel,0.125,1733.1,aws,compute,16,x86_64,28.61,128,Up to 10 Gigabit,3.1,r6g.4xlarge,r5b.4xlarge,8,0
+aws-ec2,intel,0.125,3468.7,aws,compute,32,x86_64,57.22,256,10 Gigabit,3.1,r6g.8xlarge,r5b.8xlarge,8,0
+aws-ec2,intel,0.125,216.8,aws,compute,2,x86_64,3.58,16,Up to 10 Gigabit,3.1,r6g.large,r5b.large,8,0
+aws-ec2,intel,0.125,,aws,compute,96,x86_64,171.65,768,25 Gigabit,3.1,no_equivalent,r5b.metal,8,0
+aws-ec2,intel,0.125,433.6,aws,compute,4,x86_64,7.15,32,Up to 10 Gigabit,3.1,r6g.xlarge,r5b.xlarge,8,0
+aws-ec2,intel,0.125,5342.2,aws,compute,48,x86_64,82.94,384,10 Gigabit,3.1,r6gd.12xlarge,r5d.12xlarge,8,0
+aws-ec2,intel,0.125,7123.4,aws,compute,64,x86_64,110.59,512,20 Gigabit,3.1,r6gd.16xlarge,r5d.16xlarge,8,0
+aws-ec2,intel,0.125,10683.2,aws,compute,96,x86_64,165.89,768,25 Gigabit,3.1,r6gd.24xlarge,r5d.24xlarge,8,0
+aws-ec2,intel,0.125,890,aws,compute,8,x86_64,13.82,64,Up to 10 Gigabit,3.1,r6gd.2xlarge,r5d.2xlarge,8,0
+aws-ec2,intel,0.125,1781.1,aws,compute,16,x86_64,27.65,128,Up to 10 Gigabit,3.1,r6gd.4xlarge,r5d.4xlarge,8,0
+aws-ec2,intel,0.125,3559.9,aws,compute,32,x86_64,55.3,256,10 Gigabit,3.1,r6gd.8xlarge,r5d.8xlarge,8,0
+aws-ec2,intel,0.125,221.6,aws,compute,2,x86_64,3.46,16,Up to 10 Gigabit,3.1,r6gd.large,r5d.large,8,0
+aws-ec2,intel,0.125,,aws,compute,96,x86_64,165.89,768,25 Gigabit,3.1,no_equivalent,r5d.metal,8,0
+aws-ec2,intel,0.125,445.6,aws,compute,4,x86_64,6.91,32,Up to 10 Gigabit,3.1,r6gd.xlarge,r5d.xlarge,8,0
+aws-ec2,intel,0.125,5342.2,aws,compute,48,x86_64,96.19,384,50 Gigabit,3.1,r6g.12xlarge,r5dn.12xlarge,8,0
+aws-ec2,intel,0.125,7123.4,aws,compute,64,x86_64,128.26,512,75 Gigabit,3.1,r6g.16xlarge,r5dn.16xlarge,8,0
+aws-ec2,intel,0.125,10683.2,aws,compute,96,x86_64,192.38,768,100 Gigabit,3.1,r6g.24xlarge,r5dn.24xlarge,8,0
+aws-ec2,intel,0.125,890,aws,compute,8,x86_64,16.03,64,Up to 25 Gigabit,3.1,r6g.2xlarge,r5dn.2xlarge,8,0
+aws-ec2,intel,0.125,1781.1,aws,compute,16,x86_64,32.06,128,Up to 25 Gigabit,3.1,r6g.4xlarge,r5dn.4xlarge,8,0
+aws-ec2,intel,0.125,3559.9,aws,compute,32,x86_64,64.13,256,25 Gigabit,3.1,r6g.8xlarge,r5dn.8xlarge,8,0
+aws-ec2,intel,0.125,221.6,aws,compute,2,x86_64,4.01,16,Up to 25 Gigabit,3.1,r6g.large,r5dn.large,8,0
+aws-ec2,intel,0.125,,aws,compute,96,x86_64,192.38,768,100 Gigabit,3.1,no_equivalent,r5dn.metal,8,0
+aws-ec2,intel,0.125,445.6,aws,compute,4,x86_64,8.02,32,Up to 25 Gigabit,3.1,r6g.xlarge,r5dn.xlarge,8,0
+aws-ec2,intel,0.125,5203,aws,compute,48,x86_64,85.82,384,50 Gigabit,2.5,r6g.12xlarge,r5n.12xlarge,8,0
+aws-ec2,intel,0.125,6936.2,aws,compute,64,x86_64,114.43,512,75 Gigabit,2.5,r6g.16xlarge,r5n.16xlarge,8,0
+aws-ec2,intel,0.125,10404.8,aws,compute,96,x86_64,171.65,768,100 Gigabit,2.5,r6g.24xlarge,r5n.24xlarge,8,0
+aws-ec2,intel,0.125,868.4,aws,compute,8,x86_64,14.3,64,Up to 25 Gigabit,2.5,r6g.2xlarge,r5n.2xlarge,8,0
+aws-ec2,intel,0.125,1733.1,aws,compute,16,x86_64,28.61,128,Up to 25 Gigabit,2.5,r6g.4xlarge,r5n.4xlarge,8,0
+aws-ec2,intel,0.125,3468.7,aws,compute,32,x86_64,57.22,256,25 Gigabit,2.5,r6g.8xlarge,r5n.8xlarge,8,0
+aws-ec2,intel,0.125,216.8,aws,compute,2,x86_64,3.58,16,Up to 25 Gigabit,2.5,r6g.large,r5n.large,8,0
+aws-ec2,intel,0.125,,aws,compute,96,x86_64,171.65,768,100 Gigabit,2.5,no_equivalent,r5n.metal,8,0
+aws-ec2,intel,0.125,433.6,aws,compute,4,x86_64,7.15,32,Up to 25 Gigabit,2.5,r6g.xlarge,r5n.xlarge,8,0
+aws-ec2,graviton,0.125,4000,aws,compute,48,arm64,58.06,384,20 Gigabit,2.5,,r6g.12xlarge,8,0
+aws-ec2,graviton,0.125,5333.3,aws,compute,64,arm64,77.41,512,25 Gigabit,2.5,,r6g.16xlarge,8,0
+aws-ec2,graviton,0.125,667.3,aws,compute,8,arm64,9.68,64,Up to 10 Gigabit,2.5,,r6g.2xlarge,8,0
+aws-ec2,graviton,0.125,1333.3,aws,compute,16,arm64,19.35,128,Up to 10 Gigabit,2.5,,r6g.4xlarge,8,0
+aws-ec2,graviton,0.125,2666.6,aws,compute,32,arm64,38.71,256,12 Gigabit,2.5,,r6g.8xlarge,8,0
+aws-ec2,graviton,0.125,166.5,aws,compute,2,arm64,2.42,16,Up to 10 Gigabit,2.5,,r6g.large,8,0
+aws-ec2,graviton,0.125,83.9,aws,compute,1,arm64,1.21,8,Up to 10 Gigabit,2.5,,r6g.medium,8,0
+aws-ec2,graviton,0.125,,aws,compute,64,arm64,77.41,512,25 Gigabit,2.5,,r6g.metal,8,0
+aws-ec2,graviton,0.125,334.2,aws,compute,4,arm64,4.84,32,Up to 10 Gigabit,2.5,,r6g.xlarge,8,0
+aws-ec2,graviton,0.125,4105.6,aws,compute,48,arm64,66.36,384,20 Gigabit,2.5,,r6gd.12xlarge,8,0
+aws-ec2,graviton,0.125,5472.5,aws,compute,64,arm64,88.47,512,25 Gigabit,2.5,,r6gd.16xlarge,8,0
+aws-ec2,graviton,0.125,684.1,aws,compute,8,arm64,11.06,64,Up to 10 Gigabit,2.5,,r6gd.2xlarge,8,0
+aws-ec2,graviton,0.125,1369.3,aws,compute,16,arm64,22.12,128,Up to 10 Gigabit,2.5,,r6gd.4xlarge,8,0
+aws-ec2,graviton,0.125,2736.2,aws,compute,32,arm64,44.24,256,12 Gigabit,2.5,,r6gd.8xlarge,8,0
+aws-ec2,graviton,0.125,171.3,aws,compute,2,arm64,2.76,16,Up to 10 Gigabit,2.5,,r6gd.large,8,0
+aws-ec2,graviton,0.125,86.3,aws,compute,1,arm64,1.38,8,Up to 10 Gigabit,2.5,,r6gd.medium,8,0
+aws-ec2,graviton,0.125,,aws,compute,64,arm64,88.47,512,25 Gigabit,2.5,,r6gd.metal,8,0
+aws-ec2,graviton,0.125,341.4,aws,compute,4,arm64,5.53,32,Up to 10 Gigabit,2.5,,r6gd.xlarge,8,0
+,,,5915.8,aws,,,,,,,,,ra3.16xlarge,,
+,,,1479.6,aws,,,,,,,,,ra3.4xlarge,,
+aws-ec2,graviton,1.6313213703099512,110.2,aws,compute,1,unknown,0.48,0.613,Very Low,,,t1.micro,0.613,0
+aws-ec2,intel,0.25,616.9,aws,compute,8,x86_64,8.91,32,Moderate,3.3,t4g.2xlarge,t2.2xlarge,4,0
+aws-ec2,intel,0.25,154.5,aws,compute,2,x86_64,2.23,8,Low to Moderate,3.3,t4g.large,t2.large,4,0
+aws-ec2,intel,0.5,171.3,aws,compute,2,x86_64,1.11,4,Low to Moderate,3.3,t4g.medium,t2.medium,2,0
+aws-ec2,intel,1,80.3,aws,compute,1,x86_64,0.28,1,Low to Moderate,3.3,t4g.micro,t2.micro,1,0
+aws-ec2,intel,2,77.9,aws,compute,1,x86_64,0.14,0.5,Low to Moderate,3.3,t4g.nano,t2.nano,0.5,0
+aws-ec2,intel,0.5,85.1,aws,compute,1,x86_64,0.55,2,Low to Moderate,3.3,t4g.small,t2.small,2,0
+aws-ec2,intel,0.25,309,aws,compute,4,x86_64,4.45,16,Moderate,3.3,t4g.xlarge,t2.xlarge,4,0
+aws-ec2,intel,0.25,770.1,aws,compute,8,x86_64,7.99,32,Up to 5 Gigabit,3.1,t4g.2xlarge,t3.2xlarge,4,0
+aws-ec2,intel,0.25,192.8,aws,compute,2,x86_64,2,8,Up to 5 Gigabit,3.1,t4g.large,t3.large,4,0
+aws-ec2,intel,0.5,162.9,aws,compute,2,x86_64,1,4,Up to 5 Gigabit,3.1,t4g.medium,t3.medium,2,0
+aws-ec2,intel,2,141.3,aws,compute,2,x86_64,0.25,1,Up to 5 Gigabit,3.1,t4g.micro,t3.micro,0.5,0
+aws-ec2,intel,4,137.8,aws,compute,2,x86_64,0.12,0.5,Up to 5 Gigabit,3.1,t4g.nano,t3.nano,0.25,0
+aws-ec2,intel,1,148.5,aws,compute,2,x86_64,0.5,2,Up to 5 Gigabit,3.1,t4g.small,t3.small,1,0
+aws-ec2,intel,0.25,383.3,aws,compute,4,x86_64,3.99,16,Up to 5 Gigabit,3.1,t4g.xlarge,t3.xlarge,4,0
+aws-ec2,amd,0.25,626.4,aws,compute,8,x86_64,7.22,32,Up to 5 Gigabit,2.5,t4g.2xlarge,t3a.2xlarge,4,0
+aws-ec2,amd,0.25,156.9,aws,compute,2,x86_64,1.8,8,Up to 5 Gigabit,2.5,t4g.large,t3a.large,4,0
+aws-ec2,amd,0.5,137.8,aws,compute,2,x86_64,0.9,4,Up to 5 Gigabit,2.5,t4g.medium,t3a.medium,2,0
+aws-ec2,amd,2,123.4,aws,compute,2,x86_64,0.23,1,Up to 5 Gigabit,2.5,t4g.micro,t3a.micro,0.5,0
+aws-ec2,amd,4,121,aws,compute,2,x86_64,0.11,0.5,Up to 5 Gigabit,2.5,t4g.nano,t3a.nano,0.25,0
+aws-ec2,amd,1,128.2,aws,compute,2,x86_64,0.45,2,Up to 5 Gigabit,2.5,t4g.small,t3a.small,1,0
+aws-ec2,amd,0.25,312.6,aws,compute,4,x86_64,3.61,16,Up to 5 Gigabit,2.5,t4g.xlarge,t3a.xlarge,4,0
+aws-ec2,graviton,0.25,482.8,aws,compute,8,arm64,6.45,32,Up to 5 Gigabit,2.5,,t4g.2xlarge,4,0
+aws-ec2,graviton,0.25,121,aws,compute,2,arm64,1.61,8,Up to 5 Gigabit,2.5,,t4g.large,4,0
+aws-ec2,graviton,0.5,101.8,aws,compute,2,arm64,0.81,4,Up to 5 Gigabit,2.5,,t4g.medium,2,0
+aws-ec2,graviton,2,87.5,aws,compute,2,arm64,0.2,1,Up to 5 Gigabit,2.5,,t4g.micro,0.5,0
+aws-ec2,graviton,4,85.1,aws,compute,2,arm64,0.1,0.5,Up to 5 Gigabit,2.5,,t4g.nano,0.25,0
+aws-ec2,graviton,1,92.3,aws,compute,2,arm64,0.4,2,Up to 5 Gigabit,2.5,,t4g.small,1,0
+aws-ec2,graviton,0.25,240.8,aws,compute,4,arm64,3.23,16,Up to 5 Gigabit,2.5,,t4g.xlarge,4,0
+aws-ec2,intel,0.06557377049180328,9389.4,aws,compute,64,x86_64,160.06,976,10 Gigabit,2.3,no_equivalent,x1.16xlarge,15.25,0
+aws-ec2,intel,0.06557377049180328,18780,aws,compute,128,x86_64,320.11,1952,25 Gigabit,2.3,no_equivalent,x1.32xlarge,15.25,0
+aws-ec2,intel,0.03278688524590164,15004.7,aws,compute,64,x86_64,320.26,1952,10 Gigabit,2.3,no_equivalent,x1e.16xlarge,30.5,0
+aws-ec2,intel,0.03278688524590164,1876.9,aws,compute,8,x86_64,40.03,244,Up to 10 Gigabit,2.3,no_equivalent,x1e.2xlarge,30.5,0
+aws-ec2,intel,0.03278688524590164,30008.3,aws,compute,128,x86_64,640.51,3904,25 Gigabit,2.3,no_equivalent,x1e.32xlarge,30.5,0
+aws-ec2,intel,0.03278688524590164,3750.3,aws,compute,16,x86_64,80.06,488,Up to 10 Gigabit,2.3,no_equivalent,x1e.4xlarge,30.5,0
+aws-ec2,intel,0.03278688524590164,7503,aws,compute,32,x86_64,160.13,976,Up to 10 Gigabit,2.3,no_equivalent,x1e.8xlarge,30.5,0
+aws-ec2,intel,0.03278688524590164,936.7,aws,compute,4,x86_64,20.02,122,Up to 10 Gigabit,2.3,no_equivalent,x1e.xlarge,30.5,0
+aws-ec2,graviton,0.0625,6314.3,aws,compute,48,arm64,96.19,768,20 Gigabit,2.5,,x2gd.12xlarge,16,0
+aws-ec2,graviton,0.0625,8419.1,aws,compute,64,arm64,128.26,1024,25 Gigabit,2.5,,x2gd.16xlarge,16,0
+aws-ec2,graviton,0.0625,1053,aws,compute,8,arm64,16.03,128,Up to 10 Gigabit,2.5,,x2gd.2xlarge,16,0
+aws-ec2,graviton,0.0625,2104.8,aws,compute,16,arm64,32.06,256,Up to 10 Gigabit,2.5,,x2gd.4xlarge,16,0
+aws-ec2,graviton,0.0625,4209.5,aws,compute,32,arm64,64.13,512,12 Gigabit,2.5,,x2gd.8xlarge,16,0
+aws-ec2,graviton,0.0625,262.3,aws,compute,2,arm64,4.01,32,Up to 10 Gigabit,2.5,,x2gd.large,16,0
+aws-ec2,graviton,0.0625,131.8,aws,compute,1,arm64,2,16,Up to 10 Gigabit,2.5,,x2gd.medium,16,0
+aws-ec2,graviton,0.0625,,aws,compute,64,arm64,128.26,1024,25 Gigabit,2.5,,x2gd.metal,16,0
+aws-ec2,graviton,0.0625,525.9,aws,compute,4,arm64,8.02,64,Up to 10 Gigabit,2.5,,x2gd.xlarge,16,0
+aws-ec2,intel,0.125,8813,aws,compute,48,x86_64,107.14,384,25 Gigabit,4,no_equivalent,z1d.12xlarge,8,0
+aws-ec2,intel,0.125,1468.4,aws,compute,8,x86_64,17.86,64,Up to 10 Gigabit,4,no_equivalent,z1d.2xlarge,8,0
+aws-ec2,intel,0.125,2203.9,aws,compute,12,x86_64,26.78,96,Up to 10 Gigabit,4,no_equivalent,z1d.3xlarge,8,0
+aws-ec2,intel,0.125,4406.5,aws,compute,24,x86_64,53.57,192,10 Gigabit,4,no_equivalent,z1d.6xlarge,8,0
+aws-ec2,intel,0.125,367.7,aws,compute,2,x86_64,4.46,16,Up to 10 Gigabit,4,no_equivalent,z1d.large,8,0
+aws-ec2,intel,0.125,,aws,compute,48,x86_64,107.14,384,25 Gigabit,4,no_equivalent,z1d.metal,8,0
+aws-ec2,intel,0.125,735.4,aws,compute,4,x86_64,8.93,32,Up to 10 Gigabit,4,no_equivalent,z1d.xlarge,8,0
