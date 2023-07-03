@@ -16,12 +16,9 @@ jobs:
       id-token: write
       contents: read
 
-    runs-on: ubuntu-latest
-    steps:
-      - name: Call Reusable Workflow
-        uses: American-Chip/workflow-remote/.github/workflows/graviton-scan-reusable.yaml@develop
-        with:
-          CLIENT_REPOSITORY: ${{ github.event.inputs.client_repository }}
-          BRANCH : ${{ github.event.inputs.branch }}
-          USER_id : ${{ github.event.inputs.user_id }}
-          ac_github_token: ${{ secrets.Token_WF }}
+    uses: American-Chip/workflow-remote/.github/workflows/graviton-scan-reusable.yaml@develop
+    with:
+      CLIENT_REPOSITORY: ${{ github.event.inputs.client_repository }}
+      BRANCH : ${{ github.event.inputs.branch }}
+      USER_id : ${{ github.event.inputs.user_id }}
+      ac_github_token: ${{ secrets.Token_WF }}
