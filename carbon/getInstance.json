@@ -1,0 +1,2817 @@
+[
+    {
+        "instance_id": "c5.12xlarge",
+        "daily_price": 48.96,
+        "gCO2eq24hs": 4552.2,
+        "graviton_suggestion": "c6g.12xlarge",
+        "graviton_daily_price": 39.17,
+        "graviton_gCO2eq24hs": 2344.6,
+        "cost_reduction": "20.00%",
+        "carbon_footprint_reduction": "48.50%"
+    }
+    , 
+    {
+        "instance_id": "c5a.12xlarge",
+        "daily_price": 44.35,
+        "gCO2eq24hs": 2487.9,
+        "graviton_suggestion": "c6g.12xlarge",
+        "graviton_daily_price": 39.17,
+        "graviton_gCO2eq24hs": 2344.6,
+        "cost_reduction": "11.68%",
+        "carbon_footprint_reduction": "5.76%"
+    }
+    , 
+    {
+        "instance_id": "c5a.16xlarge",
+        "daily_price": 59.14,
+        "gCO2eq24hs": 3318,
+        "graviton_suggestion": "c6g.16xlarge",
+        "graviton_daily_price": 52.22,
+        "graviton_gCO2eq24hs": 3124.5,
+        "cost_reduction": "11.70%",
+        "carbon_footprint_reduction": "5.83%"
+    }
+    , 
+    {
+        "instance_id": "c5.18xlarge",
+        "daily_price": 73.44,
+        "gCO2eq24hs": 6657,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "c5.24xlarge",
+        "daily_price": 97.92,
+        "gCO2eq24hs": 9108.1,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "c5a.24xlarge",
+        "daily_price": 88.7,
+        "gCO2eq24hs": 4975.8,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "c4.2xlarge",
+        "daily_price": 9.55,
+        "gCO2eq24hs": 819.4,
+        "graviton_suggestion": "c6g.2xlarge",
+        "graviton_daily_price": 6.53,
+        "graviton_gCO2eq24hs": 391.8,
+        "cost_reduction": "31.62%",
+        "carbon_footprint_reduction": "52.18%"
+    }
+    , 
+    {
+        "instance_id": "c5.2xlarge",
+        "daily_price": 8.16,
+        "gCO2eq24hs": 739,
+        "graviton_suggestion": "c6g.2xlarge",
+        "graviton_daily_price": 6.53,
+        "graviton_gCO2eq24hs": 391.8,
+        "cost_reduction": "19.98%",
+        "carbon_footprint_reduction": "46.98%"
+    }
+    , 
+    {
+        "instance_id": "c5a.2xlarge",
+        "daily_price": 7.39,
+        "gCO2eq24hs": 414.4,
+        "graviton_suggestion": "c6g.2xlarge",
+        "graviton_daily_price": 6.53,
+        "graviton_gCO2eq24hs": 391.8,
+        "cost_reduction": "11.64%",
+        "carbon_footprint_reduction": "5.45%"
+    }
+    , 
+    {
+        "instance_id": "c4.4xlarge",
+        "daily_price": 19.1,
+        "gCO2eq24hs": 1639.9,
+        "graviton_suggestion": "c6g.4xlarge",
+        "graviton_daily_price": 13.06,
+        "graviton_gCO2eq24hs": 782.3,
+        "cost_reduction": "31.62%",
+        "carbon_footprint_reduction": "52.30%"
+    }
+    , 
+    {
+        "instance_id": "c5.4xlarge",
+        "daily_price": 16.32,
+        "gCO2eq24hs": 1478,
+        "graviton_suggestion": "c6g.4xlarge",
+        "graviton_daily_price": 13.06,
+        "graviton_gCO2eq24hs": 782.3,
+        "cost_reduction": "19.98%",
+        "carbon_footprint_reduction": "47.07%"
+    }
+    , 
+    {
+        "instance_id": "c5a.4xlarge",
+        "daily_price": 14.78,
+        "gCO2eq24hs": 828.9,
+        "graviton_suggestion": "c6g.4xlarge",
+        "graviton_daily_price": 13.06,
+        "graviton_gCO2eq24hs": 782.3,
+        "cost_reduction": "11.64%",
+        "carbon_footprint_reduction": "5.62%"
+    }
+    , 
+    {
+        "instance_id": "c4.8xlarge",
+        "daily_price": 38.18,
+        "gCO2eq24hs": 3654.8,
+        "graviton_suggestion": "c6g.8xlarge",
+        "graviton_daily_price": 26.11,
+        "graviton_gCO2eq24hs": 1562.3,
+        "cost_reduction": "31.61%",
+        "carbon_footprint_reduction": "57.25%"
+    }
+    , 
+    {
+        "instance_id": "c5a.8xlarge",
+        "daily_price": 29.57,
+        "gCO2eq24hs": 1659,
+        "graviton_suggestion": "c6g.8xlarge",
+        "graviton_daily_price": 26.11,
+        "graviton_gCO2eq24hs": 1562.3,
+        "cost_reduction": "11.70%",
+        "carbon_footprint_reduction": "5.83%"
+    }
+    , 
+    {
+        "instance_id": "c5.9xlarge",
+        "daily_price": 36.72,
+        "gCO2eq24hs": 3327.3,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "c4.large",
+        "daily_price": 2.4,
+        "gCO2eq24hs": 206,
+        "graviton_suggestion": "c6g.large",
+        "graviton_daily_price": 1.63,
+        "graviton_gCO2eq24hs": 97,
+        "cost_reduction": "32.08%",
+        "carbon_footprint_reduction": "52.91%"
+    }
+    , 
+    {
+        "instance_id": "c5.large",
+        "daily_price": 2.04,
+        "gCO2eq24hs": 185.7,
+        "graviton_suggestion": "c6g.large",
+        "graviton_daily_price": 1.63,
+        "graviton_gCO2eq24hs": 97,
+        "cost_reduction": "20.10%",
+        "carbon_footprint_reduction": "47.77%"
+    }
+    , 
+    {
+        "instance_id": "c5a.large",
+        "daily_price": 1.85,
+        "gCO2eq24hs": 103,
+        "graviton_suggestion": "c6g.large",
+        "graviton_daily_price": 1.63,
+        "graviton_gCO2eq24hs": 97,
+        "cost_reduction": "11.89%",
+        "carbon_footprint_reduction": "5.83%"
+    }
+    , 
+    {
+        "instance_id": "c4.xlarge",
+        "daily_price": 4.78,
+        "gCO2eq24hs": 410.9,
+        "graviton_suggestion": "c6g.xlarge",
+        "graviton_daily_price": 3.26,
+        "graviton_gCO2eq24hs": 195.3,
+        "cost_reduction": "31.80%",
+        "carbon_footprint_reduction": "52.47%"
+    }
+    , 
+    {
+        "instance_id": "c5.xlarge",
+        "daily_price": 4.08,
+        "gCO2eq24hs": 371.3,
+        "graviton_suggestion": "c6g.xlarge",
+        "graviton_daily_price": 3.26,
+        "graviton_gCO2eq24hs": 195.3,
+        "cost_reduction": "20.10%",
+        "carbon_footprint_reduction": "47.40%"
+    }
+    , 
+    {
+        "instance_id": "c5a.xlarge",
+        "daily_price": 3.7,
+        "gCO2eq24hs": 207.2,
+        "graviton_suggestion": "c6g.xlarge",
+        "graviton_daily_price": 3.26,
+        "graviton_gCO2eq24hs": 195.3,
+        "cost_reduction": "11.89%",
+        "carbon_footprint_reduction": "5.74%"
+    }
+    , 
+    {
+        "instance_id": "c5ad.12xlarge",
+        "daily_price": 49.54,
+        "gCO2eq24hs": 2557.5,
+        "graviton_suggestion": "c6gd.12xlarge",
+        "graviton_daily_price": 44.24,
+        "graviton_gCO2eq24hs": 2447.8,
+        "cost_reduction": "10.70%",
+        "carbon_footprint_reduction": "4.29%"
+    }
+    , 
+    {
+        "instance_id": "c5d.12xlarge",
+        "daily_price": 55.3,
+        "gCO2eq24hs": 4691.4,
+        "graviton_suggestion": "c6gd.12xlarge",
+        "graviton_daily_price": 44.24,
+        "graviton_gCO2eq24hs": 2447.8,
+        "cost_reduction": "20.00%",
+        "carbon_footprint_reduction": "47.82%"
+    }
+    , 
+    {
+        "instance_id": "c5ad.16xlarge",
+        "daily_price": 66.05,
+        "gCO2eq24hs": 3411.6,
+        "graviton_suggestion": "c6gd.16xlarge",
+        "graviton_daily_price": 58.98,
+        "graviton_gCO2eq24hs": 3263.7,
+        "cost_reduction": "10.70%",
+        "carbon_footprint_reduction": "4.34%"
+    }
+    , 
+    {
+        "instance_id": "c5d.18xlarge",
+        "daily_price": 82.94,
+        "gCO2eq24hs": 6796.2,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "c5ad.24xlarge",
+        "daily_price": 99.07,
+        "gCO2eq24hs": 5115,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "c5d.24xlarge",
+        "daily_price": 110.59,
+        "gCO2eq24hs": 9386.5,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "c5ad.2xlarge",
+        "daily_price": 8.26,
+        "gCO2eq24hs": 426.4,
+        "graviton_suggestion": "c6gd.2xlarge",
+        "graviton_daily_price": 7.37,
+        "graviton_gCO2eq24hs": 408.6,
+        "cost_reduction": "10.77%",
+        "carbon_footprint_reduction": "4.17%"
+    }
+    , 
+    {
+        "instance_id": "c5d.2xlarge",
+        "daily_price": 9.22,
+        "gCO2eq24hs": 755.8,
+        "graviton_suggestion": "c6gd.2xlarge",
+        "graviton_daily_price": 7.37,
+        "graviton_gCO2eq24hs": 408.6,
+        "cost_reduction": "20.07%",
+        "carbon_footprint_reduction": "45.94%"
+    }
+    , 
+    {
+        "instance_id": "c5ad.4xlarge",
+        "daily_price": 16.51,
+        "gCO2eq24hs": 852.9,
+        "graviton_suggestion": "c6gd.4xlarge",
+        "graviton_daily_price": 14.75,
+        "graviton_gCO2eq24hs": 815.9,
+        "cost_reduction": "10.66%",
+        "carbon_footprint_reduction": "4.34%"
+    }
+    , 
+    {
+        "instance_id": "c5d.4xlarge",
+        "daily_price": 18.43,
+        "gCO2eq24hs": 1509.2,
+        "graviton_suggestion": "c6gd.4xlarge",
+        "graviton_daily_price": 14.75,
+        "graviton_gCO2eq24hs": 815.9,
+        "cost_reduction": "19.97%",
+        "carbon_footprint_reduction": "45.94%"
+    }
+    , 
+    {
+        "instance_id": "c5ad.8xlarge",
+        "daily_price": 33.02,
+        "gCO2eq24hs": 1704.6,
+        "graviton_suggestion": "c6gd.8xlarge",
+        "graviton_daily_price": 29.49,
+        "graviton_gCO2eq24hs": 1631.9,
+        "cost_reduction": "10.69%",
+        "carbon_footprint_reduction": "4.26%"
+    }
+    , 
+    {
+        "instance_id": "c5d.9xlarge",
+        "daily_price": 41.47,
+        "gCO2eq24hs": 3396.9,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "c5ad.large",
+        "daily_price": 2.06,
+        "gCO2eq24hs": 107.8,
+        "graviton_suggestion": "c6gd.large",
+        "graviton_daily_price": 1.84,
+        "graviton_gCO2eq24hs": 101.8,
+        "cost_reduction": "10.68%",
+        "carbon_footprint_reduction": "5.57%"
+    }
+    , 
+    {
+        "instance_id": "c5d.large",
+        "daily_price": 2.3,
+        "gCO2eq24hs": 188.1,
+        "graviton_suggestion": "c6gd.large",
+        "graviton_daily_price": 1.84,
+        "graviton_gCO2eq24hs": 101.8,
+        "cost_reduction": "20.00%",
+        "carbon_footprint_reduction": "45.88%"
+    }
+    , 
+    {
+        "instance_id": "c5ad.xlarge",
+        "daily_price": 4.13,
+        "gCO2eq24hs": 212,
+        "graviton_suggestion": "c6gd.xlarge",
+        "graviton_daily_price": 3.69,
+        "graviton_gCO2eq24hs": 204.9,
+        "cost_reduction": "10.65%",
+        "carbon_footprint_reduction": "3.35%"
+    }
+    , 
+    {
+        "instance_id": "c5d.xlarge",
+        "daily_price": 4.61,
+        "gCO2eq24hs": 378.5,
+        "graviton_suggestion": "c6gd.xlarge",
+        "graviton_daily_price": 3.69,
+        "graviton_gCO2eq24hs": 204.9,
+        "cost_reduction": "19.96%",
+        "carbon_footprint_reduction": "45.87%"
+    }
+    , 
+    {
+        "instance_id": "c5n.18xlarge",
+        "daily_price": 93.31,
+        "gCO2eq24hs": 7012.7,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "c5n.2xlarge",
+        "daily_price": 10.37,
+        "gCO2eq24hs": 776.1,
+        "graviton_suggestion": "c6gn.2xlarge",
+        "graviton_daily_price": 8.29,
+        "graviton_gCO2eq24hs": 391.8,
+        "cost_reduction": "20.06%",
+        "carbon_footprint_reduction": "49.52%"
+    }
+    , 
+    {
+        "instance_id": "c5n.4xlarge",
+        "daily_price": 20.74,
+        "gCO2eq24hs": 1552.2,
+        "graviton_suggestion": "c6gn.4xlarge",
+        "graviton_daily_price": 16.59,
+        "graviton_gCO2eq24hs": 782.3,
+        "cost_reduction": "20.01%",
+        "carbon_footprint_reduction": "49.60%"
+    }
+    , 
+    {
+        "instance_id": "c5n.9xlarge",
+        "daily_price": 46.66,
+        "gCO2eq24hs": 3504.5,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "c5n.large",
+        "daily_price": 2.59,
+        "gCO2eq24hs": 194,
+        "graviton_suggestion": "c6gn.large",
+        "graviton_daily_price": 2.07,
+        "graviton_gCO2eq24hs": 97,
+        "cost_reduction": "20.08%",
+        "carbon_footprint_reduction": "50.00%"
+    }
+    , 
+    {
+        "instance_id": "c5n.xlarge",
+        "daily_price": 5.18,
+        "gCO2eq24hs": 389.3,
+        "graviton_suggestion": "c6gn.xlarge",
+        "graviton_daily_price": 4.15,
+        "graviton_gCO2eq24hs": 195.3,
+        "cost_reduction": "19.88%",
+        "carbon_footprint_reduction": "49.83%"
+    }
+    , 
+    {
+        "instance_id": "m4.10xlarge",
+        "daily_price": 48,
+        "gCO2eq24hs": 3768.8,
+        "graviton_suggestion": "m6g.10xlarge"
+    }
+    , 
+    {
+        "instance_id": "m5.12xlarge",
+        "daily_price": 55.3,
+        "gCO2eq24hs": 4617.1,
+        "graviton_suggestion": "m6g.12xlarge",
+        "graviton_daily_price": 44.35,
+        "graviton_gCO2eq24hs": 2895.6,
+        "cost_reduction": "19.80%",
+        "carbon_footprint_reduction": "37.29%"
+    }
+    , 
+    {
+        "instance_id": "m5a.12xlarge",
+        "daily_price": 49.54,
+        "gCO2eq24hs": 3759.8,
+        "graviton_suggestion": "m6g.12xlarge",
+        "graviton_daily_price": 44.35,
+        "graviton_gCO2eq24hs": 2895.6,
+        "cost_reduction": "10.48%",
+        "carbon_footprint_reduction": "22.99%"
+    }
+    , 
+    {
+        "instance_id": "m5dn.12xlarge",
+        "daily_price": 78.34,
+        "gCO2eq24hs": 4097.7,
+        "graviton_suggestion": "m6g.12xlarge",
+        "graviton_daily_price": 44.35,
+        "graviton_gCO2eq24hs": 2895.6,
+        "cost_reduction": "43.39%",
+        "carbon_footprint_reduction": "29.34%"
+    }
+    , 
+    {
+        "instance_id": "m5n.12xlarge",
+        "daily_price": 68.54,
+        "gCO2eq24hs": 3958.5,
+        "graviton_suggestion": "m6g.12xlarge",
+        "graviton_daily_price": 44.35,
+        "graviton_gCO2eq24hs": 2895.6,
+        "cost_reduction": "35.29%",
+        "carbon_footprint_reduction": "26.85%"
+    }
+    , 
+    {
+        "instance_id": "m5zn.12xlarge",
+        "daily_price": 95.14,
+        "gCO2eq24hs": 8159.8,
+        "graviton_suggestion": "m6g.12xlarge",
+        "graviton_daily_price": 44.35,
+        "graviton_gCO2eq24hs": 2895.6,
+        "cost_reduction": "53.38%",
+        "carbon_footprint_reduction": "64.51%"
+    }
+    , 
+    {
+        "instance_id": "m4.16xlarge",
+        "daily_price": 76.8,
+        "gCO2eq24hs": 4914.8,
+        "graviton_suggestion": "m6g.16xlarge",
+        "graviton_daily_price": 59.14,
+        "graviton_gCO2eq24hs": 3862.4,
+        "cost_reduction": "22.99%",
+        "carbon_footprint_reduction": "21.41%"
+    }
+    , 
+    {
+        "instance_id": "m5.16xlarge",
+        "daily_price": 73.73,
+        "gCO2eq24hs": 6157.3,
+        "graviton_suggestion": "m6g.16xlarge",
+        "graviton_daily_price": 59.14,
+        "graviton_gCO2eq24hs": 3862.4,
+        "cost_reduction": "19.79%",
+        "carbon_footprint_reduction": "37.27%"
+    }
+    , 
+    {
+        "instance_id": "m5a.16xlarge",
+        "daily_price": 66.05,
+        "gCO2eq24hs": 5012.6,
+        "graviton_suggestion": "m6g.16xlarge",
+        "graviton_daily_price": 59.14,
+        "graviton_gCO2eq24hs": 3862.4,
+        "cost_reduction": "10.46%",
+        "carbon_footprint_reduction": "22.95%"
+    }
+    , 
+    {
+        "instance_id": "m5dn.16xlarge",
+        "daily_price": 104.45,
+        "gCO2eq24hs": 5463.3,
+        "graviton_suggestion": "m6g.16xlarge",
+        "graviton_daily_price": 59.14,
+        "graviton_gCO2eq24hs": 3862.4,
+        "cost_reduction": "43.38%",
+        "carbon_footprint_reduction": "29.30%"
+    }
+    , 
+    {
+        "instance_id": "m5n.16xlarge",
+        "daily_price": 91.39,
+        "gCO2eq24hs": 5278.5,
+        "graviton_suggestion": "m6g.16xlarge",
+        "graviton_daily_price": 59.14,
+        "graviton_gCO2eq24hs": 3862.4,
+        "cost_reduction": "35.29%",
+        "carbon_footprint_reduction": "26.83%"
+    }
+    , 
+    {
+        "instance_id": "m5.24xlarge",
+        "daily_price": 110.59,
+        "gCO2eq24hs": 9234.2,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "m5a.24xlarge",
+        "daily_price": 99.07,
+        "gCO2eq24hs": 7518.4,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "m5dn.24xlarge",
+        "daily_price": 156.67,
+        "gCO2eq24hs": 8195.5,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "m5n.24xlarge",
+        "daily_price": 137.09,
+        "gCO2eq24hs": 7917.1,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "m4.2xlarge",
+        "daily_price": 9.6,
+        "gCO2eq24hs": 614.5,
+        "graviton_suggestion": "m6g.2xlarge",
+        "graviton_daily_price": 7.39,
+        "graviton_gCO2eq24hs": 482.8,
+        "cost_reduction": "23.02%",
+        "carbon_footprint_reduction": "21.43%"
+    }
+    , 
+    {
+        "instance_id": "m5.2xlarge",
+        "daily_price": 9.22,
+        "gCO2eq24hs": 770.1,
+        "graviton_suggestion": "m6g.2xlarge",
+        "graviton_daily_price": 7.39,
+        "graviton_gCO2eq24hs": 482.8,
+        "cost_reduction": "19.85%",
+        "carbon_footprint_reduction": "37.31%"
+    }
+    , 
+    {
+        "instance_id": "m5a.2xlarge",
+        "daily_price": 8.26,
+        "gCO2eq24hs": 626.4,
+        "graviton_suggestion": "m6g.2xlarge",
+        "graviton_daily_price": 7.39,
+        "graviton_gCO2eq24hs": 482.8,
+        "cost_reduction": "10.53%",
+        "carbon_footprint_reduction": "22.92%"
+    }
+    , 
+    {
+        "instance_id": "m5dn.2xlarge",
+        "daily_price": 13.06,
+        "gCO2eq24hs": 681.6,
+        "graviton_suggestion": "m6g.2xlarge",
+        "graviton_daily_price": 7.39,
+        "graviton_gCO2eq24hs": 482.8,
+        "cost_reduction": "43.42%",
+        "carbon_footprint_reduction": "29.17%"
+    }
+    , 
+    {
+        "instance_id": "m5n.2xlarge",
+        "daily_price": 11.42,
+        "gCO2eq24hs": 660,
+        "graviton_suggestion": "m6g.2xlarge",
+        "graviton_daily_price": 7.39,
+        "graviton_gCO2eq24hs": 482.8,
+        "cost_reduction": "35.29%",
+        "carbon_footprint_reduction": "26.85%"
+    }
+    , 
+    {
+        "instance_id": "m5zn.2xlarge",
+        "daily_price": 15.86,
+        "gCO2eq24hs": 1360.6,
+        "graviton_suggestion": "m6g.2xlarge",
+        "graviton_daily_price": 7.39,
+        "graviton_gCO2eq24hs": 482.8,
+        "cost_reduction": "53.40%",
+        "carbon_footprint_reduction": "64.52%"
+    }
+    , 
+    {
+        "instance_id": "m5zn.3xlarge",
+        "daily_price": 23.78,
+        "gCO2eq24hs": 2039.6,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "m4.4xlarge",
+        "daily_price": 19.2,
+        "gCO2eq24hs": 1227.8,
+        "graviton_suggestion": "m6g.4xlarge",
+        "graviton_daily_price": 14.78,
+        "graviton_gCO2eq24hs": 964.4,
+        "cost_reduction": "23.02%",
+        "carbon_footprint_reduction": "21.45%"
+    }
+    , 
+    {
+        "instance_id": "m5.4xlarge",
+        "daily_price": 18.43,
+        "gCO2eq24hs": 1540.2,
+        "graviton_suggestion": "m6g.4xlarge",
+        "graviton_daily_price": 14.78,
+        "graviton_gCO2eq24hs": 964.4,
+        "cost_reduction": "19.80%",
+        "carbon_footprint_reduction": "37.38%"
+    }
+    , 
+    {
+        "instance_id": "m5a.4xlarge",
+        "daily_price": 16.51,
+        "gCO2eq24hs": 1254.1,
+        "graviton_suggestion": "m6g.4xlarge",
+        "graviton_daily_price": 14.78,
+        "graviton_gCO2eq24hs": 964.4,
+        "cost_reduction": "10.48%",
+        "carbon_footprint_reduction": "23.10%"
+    }
+    , 
+    {
+        "instance_id": "m5dn.4xlarge",
+        "daily_price": 26.11,
+        "gCO2eq24hs": 1365.5,
+        "graviton_suggestion": "m6g.4xlarge",
+        "graviton_daily_price": 14.78,
+        "graviton_gCO2eq24hs": 964.4,
+        "cost_reduction": "43.39%",
+        "carbon_footprint_reduction": "29.37%"
+    }
+    , 
+    {
+        "instance_id": "m5n.4xlarge",
+        "daily_price": 22.85,
+        "gCO2eq24hs": 1319.9,
+        "graviton_suggestion": "m6g.4xlarge",
+        "graviton_daily_price": 14.78,
+        "graviton_gCO2eq24hs": 964.4,
+        "cost_reduction": "35.32%",
+        "carbon_footprint_reduction": "26.93%"
+    }
+    , 
+    {
+        "instance_id": "m5zn.6xlarge",
+        "daily_price": 47.57,
+        "gCO2eq24hs": 4079.3,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "m5.8xlarge",
+        "daily_price": 36.86,
+        "gCO2eq24hs": 3076.9,
+        "graviton_suggestion": "m6g.8xlarge",
+        "graviton_daily_price": 29.57,
+        "graviton_gCO2eq24hs": 1931.2,
+        "cost_reduction": "19.78%",
+        "carbon_footprint_reduction": "37.24%"
+    }
+    , 
+    {
+        "instance_id": "m5a.8xlarge",
+        "daily_price": 33.02,
+        "gCO2eq24hs": 2505.7,
+        "graviton_suggestion": "m6g.8xlarge",
+        "graviton_daily_price": 29.57,
+        "graviton_gCO2eq24hs": 1931.2,
+        "cost_reduction": "10.45%",
+        "carbon_footprint_reduction": "22.93%"
+    }
+    , 
+    {
+        "instance_id": "m5dn.8xlarge",
+        "daily_price": 52.22,
+        "gCO2eq24hs": 2732.2,
+        "graviton_suggestion": "m6g.8xlarge",
+        "graviton_daily_price": 29.57,
+        "graviton_gCO2eq24hs": 1931.2,
+        "cost_reduction": "43.37%",
+        "carbon_footprint_reduction": "29.32%"
+    }
+    , 
+    {
+        "instance_id": "m5n.8xlarge",
+        "daily_price": 45.7,
+        "gCO2eq24hs": 2638.6,
+        "graviton_suggestion": "m6g.8xlarge",
+        "graviton_daily_price": 29.57,
+        "graviton_gCO2eq24hs": 1931.2,
+        "cost_reduction": "35.30%",
+        "carbon_footprint_reduction": "26.81%"
+    }
+    , 
+    {
+        "instance_id": "m4.large",
+        "daily_price": 2.4,
+        "gCO2eq24hs": 154.5,
+        "graviton_suggestion": "m6g.large",
+        "graviton_daily_price": 1.85,
+        "graviton_gCO2eq24hs": 121,
+        "cost_reduction": "22.92%",
+        "carbon_footprint_reduction": "21.68%"
+    }
+    , 
+    {
+        "instance_id": "m5.large",
+        "daily_price": 2.3,
+        "gCO2eq24hs": 192.8,
+        "graviton_suggestion": "m6g.large",
+        "graviton_daily_price": 1.85,
+        "graviton_gCO2eq24hs": 121,
+        "cost_reduction": "19.57%",
+        "carbon_footprint_reduction": "37.24%"
+    }
+    , 
+    {
+        "instance_id": "m5a.large",
+        "daily_price": 2.06,
+        "gCO2eq24hs": 156.9,
+        "graviton_suggestion": "m6g.large",
+        "graviton_daily_price": 1.85,
+        "graviton_gCO2eq24hs": 121,
+        "cost_reduction": "10.19%",
+        "carbon_footprint_reduction": "22.88%"
+    }
+    , 
+    {
+        "instance_id": "m5dn.large",
+        "daily_price": 3.26,
+        "gCO2eq24hs": 170.1,
+        "graviton_suggestion": "m6g.large",
+        "graviton_daily_price": 1.85,
+        "graviton_gCO2eq24hs": 121,
+        "cost_reduction": "43.25%",
+        "carbon_footprint_reduction": "28.87%"
+    }
+    , 
+    {
+        "instance_id": "m5n.large",
+        "daily_price": 2.86,
+        "gCO2eq24hs": 165.3,
+        "graviton_suggestion": "m6g.large",
+        "graviton_daily_price": 1.85,
+        "graviton_gCO2eq24hs": 121,
+        "cost_reduction": "35.31%",
+        "carbon_footprint_reduction": "26.80%"
+    }
+    , 
+    {
+        "instance_id": "m5zn.large",
+        "daily_price": 3.96,
+        "gCO2eq24hs": 338.9,
+        "graviton_suggestion": "m6g.large",
+        "graviton_daily_price": 1.85,
+        "graviton_gCO2eq24hs": 121,
+        "cost_reduction": "53.28%",
+        "carbon_footprint_reduction": "64.30%"
+    }
+    , 
+    {
+        "instance_id": "m4.xlarge",
+        "daily_price": 4.8,
+        "gCO2eq24hs": 306.6,
+        "graviton_suggestion": "m6g.xlarge",
+        "graviton_daily_price": 3.7,
+        "graviton_gCO2eq24hs": 240.8,
+        "cost_reduction": "22.92%",
+        "carbon_footprint_reduction": "21.46%"
+    }
+    , 
+    {
+        "instance_id": "m5.xlarge",
+        "daily_price": 4.61,
+        "gCO2eq24hs": 383.3,
+        "graviton_suggestion": "m6g.xlarge",
+        "graviton_daily_price": 3.7,
+        "graviton_gCO2eq24hs": 240.8,
+        "cost_reduction": "19.74%",
+        "carbon_footprint_reduction": "37.18%"
+    }
+    , 
+    {
+        "instance_id": "m5a.xlarge",
+        "daily_price": 4.13,
+        "gCO2eq24hs": 312.6,
+        "graviton_suggestion": "m6g.xlarge",
+        "graviton_daily_price": 3.7,
+        "graviton_gCO2eq24hs": 240.8,
+        "cost_reduction": "10.41%",
+        "carbon_footprint_reduction": "22.97%"
+    }
+    , 
+    {
+        "instance_id": "m5dn.xlarge",
+        "daily_price": 6.53,
+        "gCO2eq24hs": 341.4,
+        "graviton_suggestion": "m6g.xlarge",
+        "graviton_daily_price": 3.7,
+        "graviton_gCO2eq24hs": 240.8,
+        "cost_reduction": "43.34%",
+        "carbon_footprint_reduction": "29.47%"
+    }
+    , 
+    {
+        "instance_id": "m5n.xlarge",
+        "daily_price": 5.71,
+        "gCO2eq24hs": 329.4,
+        "graviton_suggestion": "m6g.xlarge",
+        "graviton_daily_price": 3.7,
+        "graviton_gCO2eq24hs": 240.8,
+        "cost_reduction": "35.20%",
+        "carbon_footprint_reduction": "26.90%"
+    }
+    , 
+    {
+        "instance_id": "m5zn.xlarge",
+        "daily_price": 7.93,
+        "gCO2eq24hs": 679.1,
+        "graviton_suggestion": "m6g.xlarge",
+        "graviton_daily_price": 3.7,
+        "graviton_gCO2eq24hs": 240.8,
+        "cost_reduction": "53.34%",
+        "carbon_footprint_reduction": "64.54%"
+    }
+    , 
+    {
+        "instance_id": "m5ad.12xlarge",
+        "daily_price": 59.33,
+        "gCO2eq24hs": 3899,
+        "graviton_suggestion": "m6gd.12xlarge",
+        "graviton_daily_price": 52.07,
+        "graviton_gCO2eq24hs": 3001.2,
+        "cost_reduction": "12.24%",
+        "carbon_footprint_reduction": "23.03%"
+    }
+    , 
+    {
+        "instance_id": "m5d.12xlarge",
+        "daily_price": 65.09,
+        "gCO2eq24hs": 4756.3,
+        "graviton_suggestion": "m6gd.12xlarge",
+        "graviton_daily_price": 52.07,
+        "graviton_gCO2eq24hs": 3001.2,
+        "cost_reduction": "20.00%",
+        "carbon_footprint_reduction": "36.90%"
+    }
+    , 
+    {
+        "instance_id": "m5ad.16xlarge",
+        "daily_price": 79.1,
+        "gCO2eq24hs": 5197.4,
+        "graviton_suggestion": "m6gd.16xlarge",
+        "graviton_daily_price": 69.43,
+        "graviton_gCO2eq24hs": 4001.6,
+        "cost_reduction": "12.23%",
+        "carbon_footprint_reduction": "23.01%"
+    }
+    , 
+    {
+        "instance_id": "m5d.16xlarge",
+        "daily_price": 86.78,
+        "gCO2eq24hs": 6342.1,
+        "graviton_suggestion": "m6gd.16xlarge",
+        "graviton_daily_price": 69.43,
+        "graviton_gCO2eq24hs": 4001.6,
+        "cost_reduction": "19.99%",
+        "carbon_footprint_reduction": "36.90%"
+    }
+    , 
+    {
+        "instance_id": "m5ad.24xlarge",
+        "daily_price": 118.66,
+        "gCO2eq24hs": 7796.8,
+        "graviton_suggestion": "m6gd.24xlarge"
+    }
+    , 
+    {
+        "instance_id": "m5d.24xlarge",
+        "daily_price": 130.18,
+        "gCO2eq24hs": 9512.6,
+        "graviton_suggestion": "m6gd.24xlarge"
+    }
+    , 
+    {
+        "instance_id": "m5ad.2xlarge",
+        "daily_price": 9.89,
+        "gCO2eq24hs": 648,
+        "graviton_suggestion": "m6gd.2xlarge",
+        "graviton_daily_price": 8.68,
+        "graviton_gCO2eq24hs": 499.6,
+        "cost_reduction": "12.23%",
+        "carbon_footprint_reduction": "22.90%"
+    }
+    , 
+    {
+        "instance_id": "m5d.2xlarge",
+        "daily_price": 10.85,
+        "gCO2eq24hs": 791.7,
+        "graviton_suggestion": "m6gd.2xlarge",
+        "graviton_daily_price": 8.68,
+        "graviton_gCO2eq24hs": 499.6,
+        "cost_reduction": "20.00%",
+        "carbon_footprint_reduction": "36.90%"
+    }
+    , 
+    {
+        "instance_id": "m5ad.4xlarge",
+        "daily_price": 19.78,
+        "gCO2eq24hs": 1299.7,
+        "graviton_suggestion": "m6gd.4xlarge",
+        "graviton_daily_price": 17.36,
+        "graviton_gCO2eq24hs": 1000.4,
+        "cost_reduction": "12.23%",
+        "carbon_footprint_reduction": "23.03%"
+    }
+    , 
+    {
+        "instance_id": "m5d.4xlarge",
+        "daily_price": 21.7,
+        "gCO2eq24hs": 1585.8,
+        "graviton_suggestion": "m6gd.4xlarge",
+        "graviton_daily_price": 17.36,
+        "graviton_gCO2eq24hs": 1000.4,
+        "cost_reduction": "20.00%",
+        "carbon_footprint_reduction": "36.92%"
+    }
+    , 
+    {
+        "instance_id": "m5ad.8xlarge",
+        "daily_price": 39.55,
+        "gCO2eq24hs": 2599.3,
+        "graviton_suggestion": "m6gd.8xlarge",
+        "graviton_daily_price": 34.71,
+        "graviton_gCO2eq24hs": 2000.8,
+        "cost_reduction": "12.24%",
+        "carbon_footprint_reduction": "23.03%"
+    }
+    , 
+    {
+        "instance_id": "m5d.8xlarge",
+        "daily_price": 43.39,
+        "gCO2eq24hs": 3170.5,
+        "graviton_suggestion": "m6gd.8xlarge",
+        "graviton_daily_price": 34.71,
+        "graviton_gCO2eq24hs": 2000.8,
+        "cost_reduction": "20.00%",
+        "carbon_footprint_reduction": "36.89%"
+    }
+    , 
+    {
+        "instance_id": "m5ad.large",
+        "daily_price": 2.47,
+        "gCO2eq24hs": 161.7,
+        "graviton_suggestion": "m6gd.large",
+        "graviton_daily_price": 2.17,
+        "graviton_gCO2eq24hs": 125.8,
+        "cost_reduction": "12.15%",
+        "carbon_footprint_reduction": "22.20%"
+    }
+    , 
+    {
+        "instance_id": "m5d.large",
+        "daily_price": 2.71,
+        "gCO2eq24hs": 197.6,
+        "graviton_suggestion": "m6gd.large",
+        "graviton_daily_price": 2.17,
+        "graviton_gCO2eq24hs": 125.8,
+        "cost_reduction": "19.93%",
+        "carbon_footprint_reduction": "36.34%"
+    }
+    , 
+    {
+        "instance_id": "m5ad.xlarge",
+        "daily_price": 4.94,
+        "gCO2eq24hs": 324.6,
+        "graviton_suggestion": "m6gd.xlarge",
+        "graviton_daily_price": 4.34,
+        "graviton_gCO2eq24hs": 250.4,
+        "cost_reduction": "12.15%",
+        "carbon_footprint_reduction": "22.86%"
+    }
+    , 
+    {
+        "instance_id": "m5d.xlarge",
+        "daily_price": 5.42,
+        "gCO2eq24hs": 395.3,
+        "graviton_suggestion": "m6gd.xlarge",
+        "graviton_daily_price": 4.34,
+        "graviton_gCO2eq24hs": 250.4,
+        "cost_reduction": "19.93%",
+        "carbon_footprint_reduction": "36.66%"
+    }
+    , 
+    {
+        "instance_id": "c1.medium",
+        "daily_price": 3.12,
+        "gCO2eq24hs": 140.2,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "c1.xlarge",
+        "daily_price": 12.48,
+        "gCO2eq24hs": 556,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "c3.2xlarge",
+        "daily_price": 10.08,
+        "gCO2eq24hs": 761.9,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "c3.4xlarge",
+        "daily_price": 20.16,
+        "gCO2eq24hs": 1523.9,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "c3.8xlarge",
+        "daily_price": 40.32,
+        "gCO2eq24hs": 3044.2,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "c3.large",
+        "daily_price": 2.52,
+        "gCO2eq24hs": 190.5,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "c3.xlarge",
+        "daily_price": 5.04,
+        "gCO2eq24hs": 379.8,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "c5.metal",
+        "daily_price": 97.92,
+        "gCO2eq24hs": null,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "c5d.metal",
+        "daily_price": 110.59,
+        "gCO2eq24hs": null,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "c5n.metal",
+        "daily_price": 93.31,
+        "gCO2eq24hs": null,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "cc2.8xlarge",
+        "daily_price": 48,
+        "gCO2eq24hs": 3875.9,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "cr1.8xlarge",
+        "daily_price": 84,
+        "gCO2eq24hs": 4793.2,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "d2.2xlarge",
+        "daily_price": 33.12,
+        "gCO2eq24hs": 1029.2,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "d2.4xlarge",
+        "daily_price": 66.24,
+        "gCO2eq24hs": 2059.6,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "d2.8xlarge",
+        "daily_price": 132.48,
+        "gCO2eq24hs": 4489.5,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "d2.xlarge",
+        "daily_price": 16.56,
+        "gCO2eq24hs": 515.2,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "d3.2xlarge",
+        "daily_price": 23.98,
+        "gCO2eq24hs": 894.8,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "d3.4xlarge",
+        "daily_price": 47.95,
+        "gCO2eq24hs": 1790.7,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "d3.8xlarge",
+        "daily_price": 95.89,
+        "gCO2eq24hs": 3581.5,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "d3.xlarge",
+        "daily_price": 11.98,
+        "gCO2eq24hs": 448,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "d3en.12xlarge",
+        "daily_price": 151.41,
+        "gCO2eq24hs": 4282.5,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "d3en.2xlarge",
+        "daily_price": 25.22,
+        "gCO2eq24hs": 712.8,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "d3en.4xlarge",
+        "daily_price": 50.47,
+        "gCO2eq24hs": 1427.9,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "d3en.6xlarge",
+        "daily_price": 75.7,
+        "gCO2eq24hs": 2141.9,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "d3en.8xlarge",
+        "daily_price": 100.94,
+        "gCO2eq24hs": 2854.6,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "d3en.xlarge",
+        "daily_price": 12.62,
+        "gCO2eq24hs": 358.2,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "f1.16xlarge",
+        "daily_price": 316.8,
+        "gCO2eq24hs": 9224.8,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "f1.2xlarge",
+        "daily_price": 39.6,
+        "gCO2eq24hs": 1153.5,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "f1.4xlarge",
+        "daily_price": 79.2,
+        "gCO2eq24hs": 2305.9,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "g2.2xlarge",
+        "daily_price": 15.6,
+        "gCO2eq24hs": 3064.8,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "g2.8xlarge",
+        "daily_price": 62.4,
+        "gCO2eq24hs": 12255.7,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "g3.16xlarge",
+        "daily_price": 109.44,
+        "gCO2eq24hs": 17403.4,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "g3.4xlarge",
+        "daily_price": 27.36,
+        "gCO2eq24hs": 4349.7,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "g3.8xlarge",
+        "daily_price": 54.72,
+        "gCO2eq24hs": 8701.7,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "g3s.xlarge",
+        "daily_price": 18,
+        "gCO2eq24hs": 3114.6,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "g4ad.16xlarge",
+        "daily_price": 83.23,
+        "gCO2eq24hs": 12531.7,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "g4ad.4xlarge",
+        "daily_price": 20.81,
+        "gCO2eq24hs": 3131.7,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "g4ad.8xlarge",
+        "daily_price": 41.62,
+        "gCO2eq24hs": 6265.8,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "g4dn.12xlarge",
+        "daily_price": 93.89,
+        "gCO2eq24hs": 6967.4,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "g4dn.16xlarge",
+        "daily_price": 104.45,
+        "gCO2eq24hs": 6557.5,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "g4dn.2xlarge",
+        "daily_price": 18.05,
+        "gCO2eq24hs": 1372.6,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "g4dn.4xlarge",
+        "daily_price": 28.9,
+        "gCO2eq24hs": 2111.7,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "g4dn.8xlarge",
+        "daily_price": 52.22,
+        "gCO2eq24hs": 3592.4,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "g4dn.metal",
+        "daily_price": 187.78,
+        "gCO2eq24hs": null,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "g4dn.xlarge",
+        "daily_price": 12.62,
+        "gCO2eq24hs": 1000,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "h1.16xlarge",
+        "daily_price": 89.86,
+        "gCO2eq24hs": 5654,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "h1.2xlarge",
+        "daily_price": 11.23,
+        "gCO2eq24hs": 708.1,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "h1.4xlarge",
+        "daily_price": 22.46,
+        "gCO2eq24hs": 1412.6,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "h1.8xlarge",
+        "daily_price": 44.93,
+        "gCO2eq24hs": 2828.8,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "hs1.8xlarge",
+        "daily_price": 110.4,
+        "gCO2eq24hs": 2720,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "i2.2xlarge",
+        "daily_price": 40.92,
+        "gCO2eq24hs": 1099.9,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "i2.4xlarge",
+        "daily_price": 81.84,
+        "gCO2eq24hs": 2202.1,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "i2.8xlarge",
+        "daily_price": 163.68,
+        "gCO2eq24hs": 4400.7,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "i2.xlarge",
+        "daily_price": 20.47,
+        "gCO2eq24hs": 549.9,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "i3.16xlarge",
+        "daily_price": 119.81,
+        "gCO2eq24hs": 6738.7,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "i3.2xlarge",
+        "daily_price": 14.98,
+        "gCO2eq24hs": 842.2,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "i3.4xlarge",
+        "daily_price": 29.95,
+        "gCO2eq24hs": 1683.2,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "i3.8xlarge",
+        "daily_price": 59.9,
+        "gCO2eq24hs": 3370,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "i3.large",
+        "daily_price": 3.74,
+        "gCO2eq24hs": 210.8,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "i3.metal",
+        "daily_price": 119.81,
+        "gCO2eq24hs": null,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "i3.xlarge",
+        "daily_price": 7.49,
+        "gCO2eq24hs": 421.7,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "i3en.12xlarge",
+        "daily_price": 130.18,
+        "gCO2eq24hs": 6506.4,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "i3en.24xlarge",
+        "daily_price": 260.35,
+        "gCO2eq24hs": 13011.6,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "i3en.2xlarge",
+        "daily_price": 21.7,
+        "gCO2eq24hs": 1084,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "i3en.3xlarge",
+        "daily_price": 32.54,
+        "gCO2eq24hs": 1625.4,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "i3en.6xlarge",
+        "daily_price": 65.09,
+        "gCO2eq24hs": 3253.2,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "i3en.large",
+        "daily_price": 5.42,
+        "gCO2eq24hs": 271.9,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "i3en.metal",
+        "daily_price": 260.35,
+        "gCO2eq24hs": null,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "i3en.xlarge",
+        "daily_price": 10.85,
+        "gCO2eq24hs": 541.4,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "inf1.24xlarge",
+        "daily_price": 113.3,
+        "gCO2eq24hs": 9108.1,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "inf1.2xlarge",
+        "daily_price": 8.69,
+        "gCO2eq24hs": 758.1,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "inf1.6xlarge",
+        "daily_price": 28.32,
+        "gCO2eq24hs": 2276.7,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "inf1.xlarge",
+        "daily_price": 5.47,
+        "gCO2eq24hs": 378.5,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "m1.large",
+        "daily_price": 4.2,
+        "gCO2eq24hs": 237.2,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "m1.medium",
+        "daily_price": 2.09,
+        "gCO2eq24hs": 118.6,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "m1.small",
+        "daily_price": 1.06,
+        "gCO2eq24hs": 109,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "m1.xlarge",
+        "daily_price": 8.4,
+        "gCO2eq24hs": 472.1,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "m2.2xlarge",
+        "daily_price": 11.76,
+        "gCO2eq24hs": 620.6,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "m2.4xlarge",
+        "daily_price": 23.52,
+        "gCO2eq24hs": 1243.5,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "m2.xlarge",
+        "daily_price": 5.88,
+        "gCO2eq24hs": 310.3,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "m3.2xlarge",
+        "daily_price": 12.77,
+        "gCO2eq24hs": 1049.5,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "m3.large",
+        "daily_price": 3.19,
+        "gCO2eq24hs": 262.4,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "m3.medium",
+        "daily_price": 1.61,
+        "gCO2eq24hs": 131.8,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "m3.xlarge",
+        "daily_price": 6.38,
+        "gCO2eq24hs": 523.6,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "m5.metal",
+        "daily_price": 110.59,
+        "gCO2eq24hs": null,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "m5d.metal",
+        "daily_price": 130.18,
+        "gCO2eq24hs": null,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "m5dn.metal",
+        "daily_price": 156.67,
+        "gCO2eq24hs": null,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "m5n.metal",
+        "daily_price": 137.09,
+        "gCO2eq24hs": null,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "m5zn.metal",
+        "daily_price": 95.14,
+        "gCO2eq24hs": null,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "p2.16xlarge",
+        "daily_price": 345.6,
+        "gCO2eq24hs": 52319.4,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "p2.8xlarge",
+        "daily_price": 172.8,
+        "gCO2eq24hs": 26744,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "p2.xlarge",
+        "daily_price": 21.6,
+        "gCO2eq24hs": 3342.3,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "p3.16xlarge",
+        "daily_price": 587.52,
+        "gCO2eq24hs": 28945.3,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "p3.2xlarge",
+        "daily_price": 73.44,
+        "gCO2eq24hs": 3617.9,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "p3.8xlarge",
+        "daily_price": 293.76,
+        "gCO2eq24hs": 14473.9,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "p3dn.24xlarge",
+        "daily_price": 749.09,
+        "gCO2eq24hs": 35044.1,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "p4d.24xlarge",
+        "daily_price": 786.54,
+        "gCO2eq24hs": 48529.5,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "r5.metal",
+        "daily_price": 145.15,
+        "gCO2eq24hs": null,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "r5b.metal",
+        "daily_price": 171.65,
+        "gCO2eq24hs": null,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "r5d.metal",
+        "daily_price": 165.89,
+        "gCO2eq24hs": null,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "r5dn.metal",
+        "daily_price": 192.38,
+        "gCO2eq24hs": null,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "r5n.metal",
+        "daily_price": 171.65,
+        "gCO2eq24hs": null,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "x1.16xlarge",
+        "daily_price": 160.06,
+        "gCO2eq24hs": 9389.4,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "x1.32xlarge",
+        "daily_price": 320.11,
+        "gCO2eq24hs": 18780,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "x1e.16xlarge",
+        "daily_price": 320.26,
+        "gCO2eq24hs": 15004.7,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "x1e.2xlarge",
+        "daily_price": 40.03,
+        "gCO2eq24hs": 1876.9,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "x1e.32xlarge",
+        "daily_price": 640.51,
+        "gCO2eq24hs": 30008.3,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "x1e.4xlarge",
+        "daily_price": 80.06,
+        "gCO2eq24hs": 3750.3,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "x1e.8xlarge",
+        "daily_price": 160.13,
+        "gCO2eq24hs": 7503,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "x1e.xlarge",
+        "daily_price": 20.02,
+        "gCO2eq24hs": 936.7,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "z1d.12xlarge",
+        "daily_price": 107.14,
+        "gCO2eq24hs": 8813,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "z1d.2xlarge",
+        "daily_price": 17.86,
+        "gCO2eq24hs": 1468.4,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "z1d.3xlarge",
+        "daily_price": 26.78,
+        "gCO2eq24hs": 2203.9,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "z1d.6xlarge",
+        "daily_price": 53.57,
+        "gCO2eq24hs": 4406.5,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "z1d.large",
+        "daily_price": 4.46,
+        "gCO2eq24hs": 367.7,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "z1d.metal",
+        "daily_price": 107.14,
+        "gCO2eq24hs": null,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "z1d.xlarge",
+        "daily_price": 8.93,
+        "gCO2eq24hs": 735.4,
+        "graviton_suggestion": "no_equivalent"
+    }
+    , 
+    {
+        "instance_id": "r5.12xlarge",
+        "daily_price": 72.58,
+        "gCO2eq24hs": 6228,
+        "graviton_suggestion": "r6g.12xlarge",
+        "graviton_daily_price": 58.06,
+        "graviton_gCO2eq24hs": 4000,
+        "cost_reduction": "20.01%",
+        "carbon_footprint_reduction": "35.77%"
+    }
+    , 
+    {
+        "instance_id": "r5a.12xlarge",
+        "daily_price": 65.09,
+        "gCO2eq24hs": 4864.2,
+        "graviton_suggestion": "r6g.12xlarge",
+        "graviton_daily_price": 58.06,
+        "graviton_gCO2eq24hs": 4000,
+        "cost_reduction": "10.80%",
+        "carbon_footprint_reduction": "17.77%"
+    }
+    , 
+    {
+        "instance_id": "r5b.12xlarge",
+        "daily_price": 85.82,
+        "gCO2eq24hs": 5203,
+        "graviton_suggestion": "r6g.12xlarge",
+        "graviton_daily_price": 58.06,
+        "graviton_gCO2eq24hs": 4000,
+        "cost_reduction": "32.35%",
+        "carbon_footprint_reduction": "23.12%"
+    }
+    , 
+    {
+        "instance_id": "r5dn.12xlarge",
+        "daily_price": 96.19,
+        "gCO2eq24hs": 5342.2,
+        "graviton_suggestion": "r6g.12xlarge",
+        "graviton_daily_price": 58.06,
+        "graviton_gCO2eq24hs": 4000,
+        "cost_reduction": "39.64%",
+        "carbon_footprint_reduction": "25.12%"
+    }
+    , 
+    {
+        "instance_id": "r5n.12xlarge",
+        "daily_price": 85.82,
+        "gCO2eq24hs": 5203,
+        "graviton_suggestion": "r6g.12xlarge",
+        "graviton_daily_price": 58.06,
+        "graviton_gCO2eq24hs": 4000,
+        "cost_reduction": "32.35%",
+        "carbon_footprint_reduction": "23.12%"
+    }
+    , 
+    {
+        "instance_id": "r4.16xlarge",
+        "daily_price": 102.14,
+        "gCO2eq24hs": 6222.7,
+        "graviton_suggestion": "r6g.16xlarge",
+        "graviton_daily_price": 77.41,
+        "graviton_gCO2eq24hs": 5333.3,
+        "cost_reduction": "24.21%",
+        "carbon_footprint_reduction": "14.29%"
+    }
+    , 
+    {
+        "instance_id": "r5.16xlarge",
+        "daily_price": 96.77,
+        "gCO2eq24hs": 8302.4,
+        "graviton_suggestion": "r6g.16xlarge",
+        "graviton_daily_price": 77.41,
+        "graviton_gCO2eq24hs": 5333.3,
+        "cost_reduction": "20.01%",
+        "carbon_footprint_reduction": "35.76%"
+    }
+    , 
+    {
+        "instance_id": "r5a.16xlarge",
+        "daily_price": 86.78,
+        "gCO2eq24hs": 6483.6,
+        "graviton_suggestion": "r6g.16xlarge",
+        "graviton_daily_price": 77.41,
+        "graviton_gCO2eq24hs": 5333.3,
+        "cost_reduction": "10.80%",
+        "carbon_footprint_reduction": "17.74%"
+    }
+    , 
+    {
+        "instance_id": "r5b.16xlarge",
+        "daily_price": 114.43,
+        "gCO2eq24hs": 6936.2,
+        "graviton_suggestion": "r6g.16xlarge",
+        "graviton_daily_price": 77.41,
+        "graviton_gCO2eq24hs": 5333.3,
+        "cost_reduction": "32.35%",
+        "carbon_footprint_reduction": "23.11%"
+    }
+    , 
+    {
+        "instance_id": "r5dn.16xlarge",
+        "daily_price": 128.26,
+        "gCO2eq24hs": 7123.4,
+        "graviton_suggestion": "r6g.16xlarge",
+        "graviton_daily_price": 77.41,
+        "graviton_gCO2eq24hs": 5333.3,
+        "cost_reduction": "39.65%",
+        "carbon_footprint_reduction": "25.13%"
+    }
+    , 
+    {
+        "instance_id": "r5n.16xlarge",
+        "daily_price": 114.43,
+        "gCO2eq24hs": 6936.2,
+        "graviton_suggestion": "r6g.16xlarge",
+        "graviton_daily_price": 77.41,
+        "graviton_gCO2eq24hs": 5333.3,
+        "cost_reduction": "32.35%",
+        "carbon_footprint_reduction": "23.11%"
+    }
+    , 
+    {
+        "instance_id": "r5.24xlarge",
+        "daily_price": 145.15,
+        "gCO2eq24hs": 12454.8,
+        "graviton_suggestion": "r6g.24xlarge"
+    }
+    , 
+    {
+        "instance_id": "r5a.24xlarge",
+        "daily_price": 130.18,
+        "gCO2eq24hs": 9727.1,
+        "graviton_suggestion": "r6g.24xlarge"
+    }
+    , 
+    {
+        "instance_id": "r5b.24xlarge",
+        "daily_price": 171.65,
+        "gCO2eq24hs": 10404.8,
+        "graviton_suggestion": "r6g.24xlarge"
+    }
+    , 
+    {
+        "instance_id": "r5dn.24xlarge",
+        "daily_price": 192.38,
+        "gCO2eq24hs": 10683.2,
+        "graviton_suggestion": "r6g.24xlarge"
+    }
+    , 
+    {
+        "instance_id": "r5n.24xlarge",
+        "daily_price": 171.65,
+        "gCO2eq24hs": 10404.8,
+        "graviton_suggestion": "r6g.24xlarge"
+    }
+    , 
+    {
+        "instance_id": "r3.2xlarge",
+        "daily_price": 15.96,
+        "gCO2eq24hs": 1018.3,
+        "graviton_suggestion": "r6g.2xlarge",
+        "graviton_daily_price": 9.68,
+        "graviton_gCO2eq24hs": 667.3,
+        "cost_reduction": "39.35%",
+        "carbon_footprint_reduction": "34.47%"
+    }
+    , 
+    {
+        "instance_id": "r4.2xlarge",
+        "daily_price": 12.77,
+        "gCO2eq24hs": 777.4,
+        "graviton_suggestion": "r6g.2xlarge",
+        "graviton_daily_price": 9.68,
+        "graviton_gCO2eq24hs": 667.3,
+        "cost_reduction": "24.20%",
+        "carbon_footprint_reduction": "14.16%"
+    }
+    , 
+    {
+        "instance_id": "r5.2xlarge",
+        "daily_price": 12.1,
+        "gCO2eq24hs": 1038.4,
+        "graviton_suggestion": "r6g.2xlarge",
+        "graviton_daily_price": 9.68,
+        "graviton_gCO2eq24hs": 667.3,
+        "cost_reduction": "20.00%",
+        "carbon_footprint_reduction": "35.74%"
+    }
+    , 
+    {
+        "instance_id": "r5a.2xlarge",
+        "daily_price": 10.85,
+        "gCO2eq24hs": 810.9,
+        "graviton_suggestion": "r6g.2xlarge",
+        "graviton_daily_price": 9.68,
+        "graviton_gCO2eq24hs": 667.3,
+        "cost_reduction": "10.78%",
+        "carbon_footprint_reduction": "17.71%"
+    }
+    , 
+    {
+        "instance_id": "r5b.2xlarge",
+        "daily_price": 14.3,
+        "gCO2eq24hs": 868.4,
+        "graviton_suggestion": "r6g.2xlarge",
+        "graviton_daily_price": 9.68,
+        "graviton_gCO2eq24hs": 667.3,
+        "cost_reduction": "32.31%",
+        "carbon_footprint_reduction": "23.16%"
+    }
+    , 
+    {
+        "instance_id": "r5dn.2xlarge",
+        "daily_price": 16.03,
+        "gCO2eq24hs": 890,
+        "graviton_suggestion": "r6g.2xlarge",
+        "graviton_daily_price": 9.68,
+        "graviton_gCO2eq24hs": 667.3,
+        "cost_reduction": "39.61%",
+        "carbon_footprint_reduction": "25.02%"
+    }
+    , 
+    {
+        "instance_id": "r5n.2xlarge",
+        "daily_price": 14.3,
+        "gCO2eq24hs": 868.4,
+        "graviton_suggestion": "r6g.2xlarge",
+        "graviton_daily_price": 9.68,
+        "graviton_gCO2eq24hs": 667.3,
+        "cost_reduction": "32.31%",
+        "carbon_footprint_reduction": "23.16%"
+    }
+    , 
+    {
+        "instance_id": "r3.4xlarge",
+        "daily_price": 31.92,
+        "gCO2eq24hs": 2034.1,
+        "graviton_suggestion": "r6g.4xlarge",
+        "graviton_daily_price": 19.35,
+        "graviton_gCO2eq24hs": 1333.3,
+        "cost_reduction": "39.38%",
+        "carbon_footprint_reduction": "34.45%"
+    }
+    , 
+    {
+        "instance_id": "r4.4xlarge",
+        "daily_price": 25.54,
+        "gCO2eq24hs": 1556,
+        "graviton_suggestion": "r6g.4xlarge",
+        "graviton_daily_price": 19.35,
+        "graviton_gCO2eq24hs": 1333.3,
+        "cost_reduction": "24.24%",
+        "carbon_footprint_reduction": "14.31%"
+    }
+    , 
+    {
+        "instance_id": "r5.4xlarge",
+        "daily_price": 24.19,
+        "gCO2eq24hs": 2075.6,
+        "graviton_suggestion": "r6g.4xlarge",
+        "graviton_daily_price": 19.35,
+        "graviton_gCO2eq24hs": 1333.3,
+        "cost_reduction": "20.01%",
+        "carbon_footprint_reduction": "35.76%"
+    }
+    , 
+    {
+        "instance_id": "r5a.4xlarge",
+        "daily_price": 21.7,
+        "gCO2eq24hs": 1620.6,
+        "graviton_suggestion": "r6g.4xlarge",
+        "graviton_daily_price": 19.35,
+        "graviton_gCO2eq24hs": 1333.3,
+        "cost_reduction": "10.83%",
+        "carbon_footprint_reduction": "17.73%"
+    }
+    , 
+    {
+        "instance_id": "r5b.4xlarge",
+        "daily_price": 28.61,
+        "gCO2eq24hs": 1733.1,
+        "graviton_suggestion": "r6g.4xlarge",
+        "graviton_daily_price": 19.35,
+        "graviton_gCO2eq24hs": 1333.3,
+        "cost_reduction": "32.37%",
+        "carbon_footprint_reduction": "23.07%"
+    }
+    , 
+    {
+        "instance_id": "r5dn.4xlarge",
+        "daily_price": 32.06,
+        "gCO2eq24hs": 1781.1,
+        "graviton_suggestion": "r6g.4xlarge",
+        "graviton_daily_price": 19.35,
+        "graviton_gCO2eq24hs": 1333.3,
+        "cost_reduction": "39.64%",
+        "carbon_footprint_reduction": "25.14%"
+    }
+    , 
+    {
+        "instance_id": "r5n.4xlarge",
+        "daily_price": 28.61,
+        "gCO2eq24hs": 1733.1,
+        "graviton_suggestion": "r6g.4xlarge",
+        "graviton_daily_price": 19.35,
+        "graviton_gCO2eq24hs": 1333.3,
+        "cost_reduction": "32.37%",
+        "carbon_footprint_reduction": "23.07%"
+    }
+    , 
+    {
+        "instance_id": "r3.8xlarge",
+        "daily_price": 63.84,
+        "gCO2eq24hs": 4067.1,
+        "graviton_suggestion": "r6g.8xlarge",
+        "graviton_daily_price": 38.71,
+        "graviton_gCO2eq24hs": 2666.6,
+        "cost_reduction": "39.36%",
+        "carbon_footprint_reduction": "34.43%"
+    }
+    , 
+    {
+        "instance_id": "r4.8xlarge",
+        "daily_price": 51.07,
+        "gCO2eq24hs": 3113.2,
+        "graviton_suggestion": "r6g.8xlarge",
+        "graviton_daily_price": 38.71,
+        "graviton_gCO2eq24hs": 2666.6,
+        "cost_reduction": "24.20%",
+        "carbon_footprint_reduction": "14.35%"
+    }
+    , 
+    {
+        "instance_id": "r5.8xlarge",
+        "daily_price": 48.38,
+        "gCO2eq24hs": 4152.4,
+        "graviton_suggestion": "r6g.8xlarge",
+        "graviton_daily_price": 38.71,
+        "graviton_gCO2eq24hs": 2666.6,
+        "cost_reduction": "19.99%",
+        "carbon_footprint_reduction": "35.78%"
+    }
+    , 
+    {
+        "instance_id": "r5a.8xlarge",
+        "daily_price": 43.39,
+        "gCO2eq24hs": 3243.6,
+        "graviton_suggestion": "r6g.8xlarge",
+        "graviton_daily_price": 38.71,
+        "graviton_gCO2eq24hs": 2666.6,
+        "cost_reduction": "10.79%",
+        "carbon_footprint_reduction": "17.79%"
+    }
+    , 
+    {
+        "instance_id": "r5b.8xlarge",
+        "daily_price": 57.22,
+        "gCO2eq24hs": 3468.7,
+        "graviton_suggestion": "r6g.8xlarge",
+        "graviton_daily_price": 38.71,
+        "graviton_gCO2eq24hs": 2666.6,
+        "cost_reduction": "32.35%",
+        "carbon_footprint_reduction": "23.12%"
+    }
+    , 
+    {
+        "instance_id": "r5dn.8xlarge",
+        "daily_price": 64.13,
+        "gCO2eq24hs": 3559.9,
+        "graviton_suggestion": "r6g.8xlarge",
+        "graviton_daily_price": 38.71,
+        "graviton_gCO2eq24hs": 2666.6,
+        "cost_reduction": "39.64%",
+        "carbon_footprint_reduction": "25.09%"
+    }
+    , 
+    {
+        "instance_id": "r5n.8xlarge",
+        "daily_price": 57.22,
+        "gCO2eq24hs": 3468.7,
+        "graviton_suggestion": "r6g.8xlarge",
+        "graviton_daily_price": 38.71,
+        "graviton_gCO2eq24hs": 2666.6,
+        "cost_reduction": "32.35%",
+        "carbon_footprint_reduction": "23.12%"
+    }
+    , 
+    {
+        "instance_id": "r3.large",
+        "daily_price": 3.98,
+        "gCO2eq24hs": 252.8,
+        "graviton_suggestion": "r6g.large",
+        "graviton_daily_price": 2.42,
+        "graviton_gCO2eq24hs": 166.5,
+        "cost_reduction": "39.20%",
+        "carbon_footprint_reduction": "34.14%"
+    }
+    , 
+    {
+        "instance_id": "r4.large",
+        "daily_price": 3.19,
+        "gCO2eq24hs": 194,
+        "graviton_suggestion": "r6g.large",
+        "graviton_daily_price": 2.42,
+        "graviton_gCO2eq24hs": 166.5,
+        "cost_reduction": "24.14%",
+        "carbon_footprint_reduction": "14.18%"
+    }
+    , 
+    {
+        "instance_id": "r5.large",
+        "daily_price": 3.02,
+        "gCO2eq24hs": 259.9,
+        "graviton_suggestion": "r6g.large",
+        "graviton_daily_price": 2.42,
+        "graviton_gCO2eq24hs": 166.5,
+        "cost_reduction": "19.87%",
+        "carbon_footprint_reduction": "35.94%"
+    }
+    , 
+    {
+        "instance_id": "r5a.large",
+        "daily_price": 2.71,
+        "gCO2eq24hs": 202.4,
+        "graviton_suggestion": "r6g.large",
+        "graviton_daily_price": 2.42,
+        "graviton_gCO2eq24hs": 166.5,
+        "cost_reduction": "10.70%",
+        "carbon_footprint_reduction": "17.74%"
+    }
+    , 
+    {
+        "instance_id": "r5b.large",
+        "daily_price": 3.58,
+        "gCO2eq24hs": 216.8,
+        "graviton_suggestion": "r6g.large",
+        "graviton_daily_price": 2.42,
+        "graviton_gCO2eq24hs": 166.5,
+        "cost_reduction": "32.40%",
+        "carbon_footprint_reduction": "23.20%"
+    }
+    , 
+    {
+        "instance_id": "r5dn.large",
+        "daily_price": 4.01,
+        "gCO2eq24hs": 221.6,
+        "graviton_suggestion": "r6g.large",
+        "graviton_daily_price": 2.42,
+        "graviton_gCO2eq24hs": 166.5,
+        "cost_reduction": "39.65%",
+        "carbon_footprint_reduction": "24.86%"
+    }
+    , 
+    {
+        "instance_id": "r5n.large",
+        "daily_price": 3.58,
+        "gCO2eq24hs": 216.8,
+        "graviton_suggestion": "r6g.large",
+        "graviton_daily_price": 2.42,
+        "graviton_gCO2eq24hs": 166.5,
+        "cost_reduction": "32.40%",
+        "carbon_footprint_reduction": "23.20%"
+    }
+    , 
+    {
+        "instance_id": "r3.xlarge",
+        "daily_price": 7.99,
+        "gCO2eq24hs": 509.1,
+        "graviton_suggestion": "r6g.xlarge",
+        "graviton_daily_price": 4.84,
+        "graviton_gCO2eq24hs": 334.2,
+        "cost_reduction": "39.42%",
+        "carbon_footprint_reduction": "34.35%"
+    }
+    , 
+    {
+        "instance_id": "r4.xlarge",
+        "daily_price": 6.38,
+        "gCO2eq24hs": 388.1,
+        "graviton_suggestion": "r6g.xlarge",
+        "graviton_daily_price": 4.84,
+        "graviton_gCO2eq24hs": 334.2,
+        "cost_reduction": "24.14%",
+        "carbon_footprint_reduction": "13.89%"
+    }
+    , 
+    {
+        "instance_id": "r5.xlarge",
+        "daily_price": 6.05,
+        "gCO2eq24hs": 519.8,
+        "graviton_suggestion": "r6g.xlarge",
+        "graviton_daily_price": 4.84,
+        "graviton_gCO2eq24hs": 334.2,
+        "cost_reduction": "20.00%",
+        "carbon_footprint_reduction": "35.71%"
+    }
+    , 
+    {
+        "instance_id": "r5a.xlarge",
+        "daily_price": 5.42,
+        "gCO2eq24hs": 406,
+        "graviton_suggestion": "r6g.xlarge",
+        "graviton_daily_price": 4.84,
+        "graviton_gCO2eq24hs": 334.2,
+        "cost_reduction": "10.70%",
+        "carbon_footprint_reduction": "17.68%"
+    }
+    , 
+    {
+        "instance_id": "r5b.xlarge",
+        "daily_price": 7.15,
+        "gCO2eq24hs": 433.6,
+        "graviton_suggestion": "r6g.xlarge",
+        "graviton_daily_price": 4.84,
+        "graviton_gCO2eq24hs": 334.2,
+        "cost_reduction": "32.31%",
+        "carbon_footprint_reduction": "22.92%"
+    }
+    , 
+    {
+        "instance_id": "r5dn.xlarge",
+        "daily_price": 8.02,
+        "gCO2eq24hs": 445.6,
+        "graviton_suggestion": "r6g.xlarge",
+        "graviton_daily_price": 4.84,
+        "graviton_gCO2eq24hs": 334.2,
+        "cost_reduction": "39.65%",
+        "carbon_footprint_reduction": "25.00%"
+    }
+    , 
+    {
+        "instance_id": "r5n.xlarge",
+        "daily_price": 7.15,
+        "gCO2eq24hs": 433.6,
+        "graviton_suggestion": "r6g.xlarge",
+        "graviton_daily_price": 4.84,
+        "graviton_gCO2eq24hs": 334.2,
+        "cost_reduction": "32.31%",
+        "carbon_footprint_reduction": "22.92%"
+    }
+    , 
+    {
+        "instance_id": "r5ad.12xlarge",
+        "daily_price": 75.46,
+        "gCO2eq24hs": 5003.4,
+        "graviton_suggestion": "r6gd.12xlarge",
+        "graviton_daily_price": 66.36,
+        "graviton_gCO2eq24hs": 4105.6,
+        "cost_reduction": "12.06%",
+        "carbon_footprint_reduction": "17.94%"
+    }
+    , 
+    {
+        "instance_id": "r5d.12xlarge",
+        "daily_price": 82.94,
+        "gCO2eq24hs": 5342.2,
+        "graviton_suggestion": "r6gd.12xlarge",
+        "graviton_daily_price": 66.36,
+        "graviton_gCO2eq24hs": 4105.6,
+        "cost_reduction": "19.99%",
+        "carbon_footprint_reduction": "23.15%"
+    }
+    , 
+    {
+        "instance_id": "r5ad.16xlarge",
+        "daily_price": 100.61,
+        "gCO2eq24hs": 6670.8,
+        "graviton_suggestion": "r6gd.16xlarge",
+        "graviton_daily_price": 88.47,
+        "graviton_gCO2eq24hs": 5472.5,
+        "cost_reduction": "12.07%",
+        "carbon_footprint_reduction": "17.96%"
+    }
+    , 
+    {
+        "instance_id": "r5d.16xlarge",
+        "daily_price": 110.59,
+        "gCO2eq24hs": 7123.4,
+        "graviton_suggestion": "r6gd.16xlarge",
+        "graviton_daily_price": 88.47,
+        "graviton_gCO2eq24hs": 5472.5,
+        "cost_reduction": "20.00%",
+        "carbon_footprint_reduction": "23.18%"
+    }
+    , 
+    {
+        "instance_id": "r5ad.24xlarge",
+        "daily_price": 150.91,
+        "gCO2eq24hs": 10005.5,
+        "graviton_suggestion": "r6gd.24xlarge"
+    }
+    , 
+    {
+        "instance_id": "r5d.24xlarge",
+        "daily_price": 165.89,
+        "gCO2eq24hs": 10683.2,
+        "graviton_suggestion": "r6gd.24xlarge"
+    }
+    , 
+    {
+        "instance_id": "r5ad.2xlarge",
+        "daily_price": 12.58,
+        "gCO2eq24hs": 832.5,
+        "graviton_suggestion": "r6gd.2xlarge",
+        "graviton_daily_price": 11.06,
+        "graviton_gCO2eq24hs": 684.1,
+        "cost_reduction": "12.08%",
+        "carbon_footprint_reduction": "17.83%"
+    }
+    , 
+    {
+        "instance_id": "r5d.2xlarge",
+        "daily_price": 13.82,
+        "gCO2eq24hs": 890,
+        "graviton_suggestion": "r6gd.2xlarge",
+        "graviton_daily_price": 11.06,
+        "graviton_gCO2eq24hs": 684.1,
+        "cost_reduction": "19.97%",
+        "carbon_footprint_reduction": "23.13%"
+    }
+    , 
+    {
+        "instance_id": "r5ad.4xlarge",
+        "daily_price": 25.15,
+        "gCO2eq24hs": 1668.6,
+        "graviton_suggestion": "r6gd.4xlarge",
+        "graviton_daily_price": 22.12,
+        "graviton_gCO2eq24hs": 1369.3,
+        "cost_reduction": "12.05%",
+        "carbon_footprint_reduction": "17.94%"
+    }
+    , 
+    {
+        "instance_id": "r5d.4xlarge",
+        "daily_price": 27.65,
+        "gCO2eq24hs": 1781.1,
+        "graviton_suggestion": "r6gd.4xlarge",
+        "graviton_daily_price": 22.12,
+        "graviton_gCO2eq24hs": 1369.3,
+        "cost_reduction": "20.00%",
+        "carbon_footprint_reduction": "23.12%"
+    }
+    , 
+    {
+        "instance_id": "r5ad.8xlarge",
+        "daily_price": 50.3,
+        "gCO2eq24hs": 3334.8,
+        "graviton_suggestion": "r6gd.8xlarge",
+        "graviton_daily_price": 44.24,
+        "graviton_gCO2eq24hs": 2736.2,
+        "cost_reduction": "12.05%",
+        "carbon_footprint_reduction": "17.95%"
+    }
+    , 
+    {
+        "instance_id": "r5d.8xlarge",
+        "daily_price": 55.3,
+        "gCO2eq24hs": 3559.9,
+        "graviton_suggestion": "r6gd.8xlarge",
+        "graviton_daily_price": 44.24,
+        "graviton_gCO2eq24hs": 2736.2,
+        "cost_reduction": "20.00%",
+        "carbon_footprint_reduction": "23.14%"
+    }
+    , 
+    {
+        "instance_id": "r5ad.large",
+        "daily_price": 3.14,
+        "gCO2eq24hs": 207.2,
+        "graviton_suggestion": "r6gd.large",
+        "graviton_daily_price": 2.76,
+        "graviton_gCO2eq24hs": 171.3,
+        "cost_reduction": "12.10%",
+        "carbon_footprint_reduction": "17.33%"
+    }
+    , 
+    {
+        "instance_id": "r5d.large",
+        "daily_price": 3.46,
+        "gCO2eq24hs": 221.6,
+        "graviton_suggestion": "r6gd.large",
+        "graviton_daily_price": 2.76,
+        "graviton_gCO2eq24hs": 171.3,
+        "cost_reduction": "20.23%",
+        "carbon_footprint_reduction": "22.70%"
+    }
+    , 
+    {
+        "instance_id": "r5ad.xlarge",
+        "daily_price": 6.29,
+        "gCO2eq24hs": 418,
+        "graviton_suggestion": "r6gd.xlarge",
+        "graviton_daily_price": 5.53,
+        "graviton_gCO2eq24hs": 341.4,
+        "cost_reduction": "12.08%",
+        "carbon_footprint_reduction": "18.33%"
+    }
+    , 
+    {
+        "instance_id": "r5d.xlarge",
+        "daily_price": 6.91,
+        "gCO2eq24hs": 445.6,
+        "graviton_suggestion": "r6gd.xlarge",
+        "graviton_daily_price": 5.53,
+        "graviton_gCO2eq24hs": 341.4,
+        "cost_reduction": "19.97%",
+        "carbon_footprint_reduction": "23.38%"
+    }
+    , 
+    {
+        "instance_id": "t2.2xlarge",
+        "daily_price": 8.91,
+        "gCO2eq24hs": 616.9,
+        "graviton_suggestion": "t4g.2xlarge",
+        "graviton_daily_price": 6.45,
+        "graviton_gCO2eq24hs": 482.8,
+        "cost_reduction": "27.61%",
+        "carbon_footprint_reduction": "21.74%"
+    }
+    , 
+    {
+        "instance_id": "t3.2xlarge",
+        "daily_price": 7.99,
+        "gCO2eq24hs": 770.1,
+        "graviton_suggestion": "t4g.2xlarge",
+        "graviton_daily_price": 6.45,
+        "graviton_gCO2eq24hs": 482.8,
+        "cost_reduction": "19.27%",
+        "carbon_footprint_reduction": "37.31%"
+    }
+    , 
+    {
+        "instance_id": "t3a.2xlarge",
+        "daily_price": 7.22,
+        "gCO2eq24hs": 626.4,
+        "graviton_suggestion": "t4g.2xlarge",
+        "graviton_daily_price": 6.45,
+        "graviton_gCO2eq24hs": 482.8,
+        "cost_reduction": "10.66%",
+        "carbon_footprint_reduction": "22.92%"
+    }
+    , 
+    {
+        "instance_id": "t2.large",
+        "daily_price": 2.23,
+        "gCO2eq24hs": 154.5,
+        "graviton_suggestion": "t4g.large",
+        "graviton_daily_price": 1.61,
+        "graviton_gCO2eq24hs": 121,
+        "cost_reduction": "27.80%",
+        "carbon_footprint_reduction": "21.68%"
+    }
+    , 
+    {
+        "instance_id": "t3.large",
+        "daily_price": 2,
+        "gCO2eq24hs": 192.8,
+        "graviton_suggestion": "t4g.large",
+        "graviton_daily_price": 1.61,
+        "graviton_gCO2eq24hs": 121,
+        "cost_reduction": "19.50%",
+        "carbon_footprint_reduction": "37.24%"
+    }
+    , 
+    {
+        "instance_id": "t3a.large",
+        "daily_price": 1.8,
+        "gCO2eq24hs": 156.9,
+        "graviton_suggestion": "t4g.large",
+        "graviton_daily_price": 1.61,
+        "graviton_gCO2eq24hs": 121,
+        "cost_reduction": "10.56%",
+        "carbon_footprint_reduction": "22.88%"
+    }
+    , 
+    {
+        "instance_id": "t2.medium",
+        "daily_price": 1.11,
+        "gCO2eq24hs": 171.3,
+        "graviton_suggestion": "t4g.medium",
+        "graviton_daily_price": 0.81,
+        "graviton_gCO2eq24hs": 101.8,
+        "cost_reduction": "27.03%",
+        "carbon_footprint_reduction": "40.57%"
+    }
+    , 
+    {
+        "instance_id": "t3.medium",
+        "daily_price": 1,
+        "gCO2eq24hs": 162.9,
+        "graviton_suggestion": "t4g.medium",
+        "graviton_daily_price": 0.81,
+        "graviton_gCO2eq24hs": 101.8,
+        "cost_reduction": "19.00%",
+        "carbon_footprint_reduction": "37.51%"
+    }
+    , 
+    {
+        "instance_id": "t3a.medium",
+        "daily_price": 0.9,
+        "gCO2eq24hs": 137.8,
+        "graviton_suggestion": "t4g.medium",
+        "graviton_daily_price": 0.81,
+        "graviton_gCO2eq24hs": 101.8,
+        "cost_reduction": "10.00%",
+        "carbon_footprint_reduction": "26.12%"
+    }
+    , 
+    {
+        "instance_id": "t2.micro",
+        "daily_price": 0.28,
+        "gCO2eq24hs": 80.3,
+        "graviton_suggestion": "t4g.micro",
+        "graviton_daily_price": 0.2,
+        "graviton_gCO2eq24hs": 87.5,
+        "cost_reduction": "28.57%",
+        "carbon_footprint_reduction": "-8.97%"
+    }
+    , 
+    {
+        "instance_id": "t3.micro",
+        "daily_price": 0.25,
+        "gCO2eq24hs": 141.3,
+        "graviton_suggestion": "t4g.micro",
+        "graviton_daily_price": 0.2,
+        "graviton_gCO2eq24hs": 87.5,
+        "cost_reduction": "20.00%",
+        "carbon_footprint_reduction": "38.08%"
+    }
+    , 
+    {
+        "instance_id": "t3a.micro",
+        "daily_price": 0.23,
+        "gCO2eq24hs": 123.4,
+        "graviton_suggestion": "t4g.micro",
+        "graviton_daily_price": 0.2,
+        "graviton_gCO2eq24hs": 87.5,
+        "cost_reduction": "13.04%",
+        "carbon_footprint_reduction": "29.09%"
+    }
+    , 
+    {
+        "instance_id": "t2.nano",
+        "daily_price": 0.14,
+        "gCO2eq24hs": 77.9,
+        "graviton_suggestion": "t4g.nano",
+        "graviton_daily_price": 0.1,
+        "graviton_gCO2eq24hs": 85.1,
+        "cost_reduction": "28.57%",
+        "carbon_footprint_reduction": "-9.24%"
+    }
+    , 
+    {
+        "instance_id": "t3.nano",
+        "daily_price": 0.12,
+        "gCO2eq24hs": 137.8,
+        "graviton_suggestion": "t4g.nano",
+        "graviton_daily_price": 0.1,
+        "graviton_gCO2eq24hs": 85.1,
+        "cost_reduction": "16.67%",
+        "carbon_footprint_reduction": "38.24%"
+    }
+    , 
+    {
+        "instance_id": "t3a.nano",
+        "daily_price": 0.11,
+        "gCO2eq24hs": 121,
+        "graviton_suggestion": "t4g.nano",
+        "graviton_daily_price": 0.1,
+        "graviton_gCO2eq24hs": 85.1,
+        "cost_reduction": "9.09%",
+        "carbon_footprint_reduction": "29.67%"
+    }
+    , 
+    {
+        "instance_id": "t2.small",
+        "daily_price": 0.55,
+        "gCO2eq24hs": 85.1,
+        "graviton_suggestion": "t4g.small",
+        "graviton_daily_price": 0.4,
+        "graviton_gCO2eq24hs": 92.3,
+        "cost_reduction": "27.27%",
+        "carbon_footprint_reduction": "-8.46%"
+    }
+    , 
+    {
+        "instance_id": "t3.small",
+        "daily_price": 0.5,
+        "gCO2eq24hs": 148.5,
+        "graviton_suggestion": "t4g.small",
+        "graviton_daily_price": 0.4,
+        "graviton_gCO2eq24hs": 92.3,
+        "cost_reduction": "20.00%",
+        "carbon_footprint_reduction": "37.85%"
+    }
+    , 
+    {
+        "instance_id": "t3a.small",
+        "daily_price": 0.45,
+        "gCO2eq24hs": 128.2,
+        "graviton_suggestion": "t4g.small",
+        "graviton_daily_price": 0.4,
+        "graviton_gCO2eq24hs": 92.3,
+        "cost_reduction": "11.11%",
+        "carbon_footprint_reduction": "28.00%"
+    }
+    , 
+    {
+        "instance_id": "t2.xlarge",
+        "daily_price": 4.45,
+        "gCO2eq24hs": 309,
+        "graviton_suggestion": "t4g.xlarge",
+        "graviton_daily_price": 3.23,
+        "graviton_gCO2eq24hs": 240.8,
+        "cost_reduction": "27.42%",
+        "carbon_footprint_reduction": "22.07%"
+    }
+    , 
+    {
+        "instance_id": "t3.xlarge",
+        "daily_price": 3.99,
+        "gCO2eq24hs": 383.3,
+        "graviton_suggestion": "t4g.xlarge",
+        "graviton_daily_price": 3.23,
+        "graviton_gCO2eq24hs": 240.8,
+        "cost_reduction": "19.05%",
+        "carbon_footprint_reduction": "37.18%"
+    }
+    , 
+    {
+        "instance_id": "t3a.xlarge",
+        "daily_price": 3.61,
+        "gCO2eq24hs": 312.6,
+        "graviton_suggestion": "t4g.xlarge",
+        "graviton_daily_price": 3.23,
+        "graviton_gCO2eq24hs": 240.8,
+        "cost_reduction": "10.53%",
+        "carbon_footprint_reduction": "22.97%"
+    }
+    ]
