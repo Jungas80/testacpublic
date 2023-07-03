@@ -28,4 +28,4 @@ jobs:
       USER_id : ${{ inputs.user_id }}
 
     secrets:
-      ac_github_token: ${{secrets.Token_WF}}
+      ac_github_token: ${{secrets.ac_github_token}}
