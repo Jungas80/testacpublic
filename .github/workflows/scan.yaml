@@ -8,7 +8,7 @@ on:
       branch:
         description: 'branch'
       user_id:
-        descrption: 'user_id'
+        description: 'user_id'
     secrets:
       Token_WF:
 
